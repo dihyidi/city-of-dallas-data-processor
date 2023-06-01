@@ -1,0 +1,1001 @@
+budget_fiscal_year,fundtype,appr,appropriation,service,objectgroup,expenditure_classification,current_budget,encumbrance,expenses,encumb_expense,ftyp,service_number
+2016,NONE,0061SDM,Storm Drainage Mgmt Operations,NONE,QV,Contractual & Other Services,0,-18860.98,18860.98,0,,
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,NONE,QM,Supplies & Materials,0,-14466.81,14466.81,0,EFOP,
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,NONE,QV,Contractual & Other Services,0,-247.79,247.79,0,EFOP,
+2016,General Fund,0001CCS,Code Compliance GF,Neighborhood Code Compliance Services,QV,Contractual & Other Services,4510251,-30.8,4368138.22,4368107.42,GNFD,3.17
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,"Water Planning, Financial and Rate Services",QM,Supplies & Materials,233150,0,96232.42,96232.42,EFOP,5.54
+2016,Enterprise Operating Fund,0061SDM,Storm Drainage Mgmt Operations,Flood Control,TR,Transfers Out,242437,0,0,0,EFOP,2.19
+2016,General Fund,0001STS,Street Services GF,Traffic Operations Maintenance,RC,Capital Outlay,0,0,46500,46500,GNFD,2.4700000000000002
+2016,Enterprise Operating Fund,0061SDM,Storm Drainage Mgmt Operations,Floodplain and Drainage Management,RC,Capital Outlay,20000,0,0,0,EFOP,2.2000000000000002
+2016,Enterprise Operating Fund,0061SDM,Storm Drainage Mgmt Operations,Floodplain and Drainage Management,RE,Reimbursements,-26000,0,0,0,EFOP,2.2000000000000002
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Special Operations,PS,Personnel Services,6087462,0,5993018.80,5993018.80,GNFD,1.33
+2016,Internal Service Fund,0199POM,Express Business Center POM,Disposal of Surplus and Police Unclaimed Property,QM,Supplies & Materials,7862,0,6647.29,6647.29,INSV,5.G
+2016,General Fund,0001DPD,Police Department GF,Police Operational Support,PS,Personnel Services,30159858,0,32323663.49,32323663.49,GNFD,1.29
+2016,General Fund,0001CTJ,Judiciary GF,Municipal Judges/Cases Docketed,PS,Personnel Services,1829318,0,1930276.88,1930276.88,GNFD,1.18
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Capital Funding,WN,Interest On Notes-Debt Service,25000,0,0,0,EFOP,2.52
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,City Fleet Asset Management,RC,Capital Outlay,0,0,2376461.56,2376461.56,INSV,5.D
+2017,General Fund,0001STS,Street Services GF,Street Forestry Division,RC,Capital Outlay,180636,0,0,0,GNFD,2.57
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,Fuel Procurement and Management,RE,Reimbursements,-387231,0,-385874.18,-385874.18,INSV,5.I
+2016,General Fund,0001HOU,Housing GF,Community/Senior Services,PS,Personnel Services,1750037,0,1650238.27,1650238.27,GNFD,3.08
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Wastewater Collection,RE,Reimbursements,-1261642,0,0,0,EFOP,3.24
+2016,General Fund,0001DPD,Police Department GF,Police Investigations of Narcotics Related Crimes,RE,Reimbursements,-276000,0,-510601.35,-510601.35,GNFD,1.27
+2016,General Fund,0001CCO,City Controller's Office GF,Financial Reporting,RE,Reimbursements,-303260,0,-149712.89,-149712.89,GNFD,5.32
+2016,General Fund,0001DPD,Police Department GF,Police Intelligence,QM,Supplies & Materials,60735,0,91854.91,91854.91,GNFD,1.25
+2016,General Fund,0001ECO,Economic Development GF,Small Business Initiatives,QM,Supplies & Materials,5911,0,62385.43,62385.43,GNFD,2.4
+2017,General Fund,0001DFD,Dallas Fire Rescue GF,"EMS Administration, Contracts, and Community Health",RE,Reimbursements,0,0,-16273.70,-16273.70,GNFD,1.08
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,DWU General Expense,PS,Personnel Services,799285,0,799285,799285,EFOP,5.26
+2016,Enterprise Operating Fund,0061SDM,Storm Drainage Mgmt Operations,Flood Control,PS,Personnel Services,8872619,0,6404435.30,6404435.30,EFOP,2.19
+2016,General Fund,0001PBW,Public Works GF,Capital and Implementation Program,PS,Personnel Services,5433897,0,4756412.24,4756412.24,GNFD,2.0499999999999998
+2016,General Fund,0001ECO,Economic Development GF,Economic Development Research and Information Services,QV,Contractual & Other Services,148040,0,167355.42,167355.42,GNFD,2.14
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Construction Plan Review and Permitting,PS,Personnel Services,6935604,0,6652571.56,6652571.56,EFOP,2.08
+2016,Other Operating Fund,0195ORM,Office of Risk Management,Risk Management Services,PS,Personnel Services,2278539,0,2040789.56,2040789.56,OTHO,5.P
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Department Support,RE,Reimbursements,-3625571,0,-3535767.47,-3535767.47,EFOP,9.99
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Fire and Rescue Emergency Response,QM,Supplies & Materials,4372150,0,6738706.99,6738706.99,GNFD,1.0900000000000001
+2016,General Fund,0001DPD,Police Department GF,Police Field Patrol,PS,Personnel Services,240619777,0,236879984.34,236879984.34,GNFD,1.24
+2017,Internal Service Fund,0198DSV,Information Technology DSV,Internal Desktop Support,PS,Personnel Services,365094,0,36413.08,36413.08,INSV,5.L
+2016,General Fund,0001ECO,Economic Development GF,Dallas Film Commission,QV,Contractual & Other Services,152531,0,108321.21,108321.21,GNFD,2.11
+2017,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Vital Statistics,RE,Reimbursements,-972659,0,-127848.33,-127848.33,EFOP,5.53
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,City Facility Services,QV,Contractual & Other Services,623135,0,657900.32,657900.32,EFOP,3.05
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Construction Plan Review and Permitting,RC,Capital Outlay,175000,0,0,0,EFOP,2.08
+2016,General Fund,0001DPD,Police Department GF,Department Support,QV,Contractual & Other Services,159568,0,630349.09,630349.09,GNFD,9.99
+2016,General Fund,0001PBW,Public Works GF,Underground Storage Tank Replacement and Inspection,QM,Supplies & Materials,0,0,7651.51,7651.51,GNFD,3.23
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Private Development Survey,QM,Supplies & Materials,6535,0,0,0,EFOP,2.34
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Utilities Capital Program Management,QM,Supplies & Materials,312641,0,180714.67,180714.67,EFOP,2.54
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Landfill Services,QM,Supplies & Materials,2383484,0,2097077.95,2097077.95,EFOP,3.16
+2016,General Fund,0001STS,Street Services GF,Traffic Safety and Congestion Management,QM,Supplies & Materials,235945,0,243498.89,243498.89,GNFD,2.48
+2017,General Fund,0001STS,Street Services GF,Land Surveying Services,PS,Personnel Services,756717,0,283498.28,283498.28,GNFD,5.43
+2016,General Fund,0001EAD,Mgmt Services - Ethics and Diversity,Ethics and Diversity,QV,Contractual & Other Services,40094,0,54748.76,54748.76,GNFD,5.3
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Special Operations,RC,Capital Outlay,0,0,44929.77,44929.77,GNFD,1.33
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Wastewater Treatment,PS,Personnel Services,17658126,0,18538857.57,18538857.57,EFOP,3.25
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,Environmental Services for City Fleet Operations,RE,Reimbursements,-1243962,0,-438358.82,-438358.82,INSV,5.H
+2016,General Fund,0001DPD,Police Department GF,Police Criminal Investigations,PS,Personnel Services,52680999,0,57060675.25,57060675.25,GNFD,1.23
+2016,General Fund,0001STS,Street Services GF,Rights-of-Way Maintenance Contracts and Inspections Group,QM,Supplies & Materials,69416,0,56740.97,56740.97,GNFD,2.38
+2016,General Fund,0001CVS,Civil Service GF,Analysis/Development and Validation,PS,Personnel Services,495159,0,410030.90,410030.90,GNFD,5.04
+2016,General Fund,0001ATT,City Attorney's Office GF,Litigation,QM,Supplies & Materials,105010,0,242601,242601,GNFD,5.45
+2016,General Fund,0001STS,Street Services GF,Department Support,QV,Contractual & Other Services,0,0,269785.03,269785.03,GNFD,9.99
+2016,General Fund,0001CPE,Mgmt Services - Strategic Initiatives,Center for Performance Excellence,RE,Reimbursements,-306774,0,-323979.58,-323979.58,GNFD,5.13
+2016,General Fund,0001ECO,Economic Development GF,Economic Development Major Projects & Other Programs,QV,Contractual & Other Services,311320,0,269331.44,269331.44,GNFD,2.13
+2016,General Fund,0001ATT,City Attorney's Office GF,Police Legal Liaison,QM,Supplies & Materials,3639,0,0,0,GNFD,1.28
+2016,General Fund,0001PBW,Public Works GF,Adjudication Office,QV,Contractual & Other Services,66043,0,90727.95,90727.95,GNFD,1.01
+2016,General Fund,0001ATT,City Attorney's Office GF,"Environ Enforcement, Compliance, and Support (Legal Service)",QM,Supplies & Materials,2398,0,0,0,GNFD,3.13
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,Department Support,RE,Reimbursements,-1673325,0,-1928589.04,-1928589.04,INSV,9.99
+2016,General Fund,0001CPE,Mgmt Services - Strategic Initiatives,Center for Performance Excellence,QV,Contractual & Other Services,309220,0,296440.96,296440.96,GNFD,5.13
+2017,General Fund,0001STS,Street Services GF,Interagency and Transportation Administration,PS,Personnel Services,1304535,0,397900.30,397900.30,GNFD,2.2599999999999998
+2016,General Fund,0001BAC,Mgmt Services - Boards and Commissions,Boards and Commissions Liaison,QM,Supplies & Materials,1500,0,0,0,GNFD,5.09
+2017,General Fund,0001ECO,Economic Development GF,Economic Development Research and Information Services,QM,Supplies & Materials,17415,0,322.43,322.43,GNFD,2.14
+2016,General Fund,0001ECO,Economic Development GF,Business Development,RE,Reimbursements,-930673,0,-610850,-610850,GNFD,2.04
+2016,General Fund,0001BMS,Office of Financial Services GF,Utility Management,QM,Supplies & Materials,409,0,0,0,GNFD,5.52
+2016,General Fund,0001HOU,Housing GF,Community/Senior Services,QM,Supplies & Materials,227469,0,62249.54,62249.54,GNFD,3.08
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Fire and Rescue Emergency Response,RE,Reimbursements,-264000,0,-788524.78,-788524.78,GNFD,1.0900000000000001
+2016,Enterprise Operating Fund,0080CCT,Convention Center CCT,Dallas Convention Center,PS,Personnel Services,7492397,0,6897672.40,6897672.40,EFOP,2.1
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Production and Delivery,RE,Reimbursements,-1261642,0,-2299068.41,-2299068.41,EFOP,2.5299999999999998
+2016,General Fund,0001CCO,City Controller's Office GF,Department Support,RE,Reimbursements,-172258,0,0,0,GNFD,9.99
+2016,General Fund,0001ECO,Economic Development GF,Dallas Film Commission,QM,Supplies & Materials,1000,0,1414.79,1414.79,GNFD,2.11
+2016,General Fund,0001CCS,Code Compliance GF,Neighborhood Code Compliance Services,RC,Capital Outlay,104751,0,0,0,GNFD,3.17
+2016,General Fund,0001PIO,Mgmt Services - Public Information Office,Public Information Office / Communications & Broadcasting,RE,Reimbursements,-322573,0,-219920.04,-219920.04,GNFD,5.48
+2016,General Fund,0001CCS,Code Compliance GF,Neighborhood Nuisance Abatement,RC,Capital Outlay,12278,0,5125,5125,GNFD,3.18
+2016,General Fund,0001CCS,Code Compliance GF,Department Support,PS,Personnel Services,871196,0,0,0,GNFD,9.99
+2016,General Fund,0001PBW,Public Works GF,Air Quality Compliance,QM,Supplies & Materials,10893,0,7043.11,7043.11,GNFD,3.01
+2016,General Fund,0001SEC,City Secretary's Office GF,City Council Support,PS,Personnel Services,533474,0,539308.38,539308.38,GNFD,5.16
+2016,General Fund,0001CTJ,Judiciary GF,Civil Adjudication Court,QM,Supplies & Materials,575,0,0,0,GNFD,1.03
+2016,General Fund,0001CTJ,Judiciary GF,Community Court,PS,Personnel Services,80211,0,0,0,GNFD,1.04
+2016,General Fund,0001PBW,Public Works GF,Ambient Air Monitoring,QM,Supplies & Materials,23920,0,25149.96,25149.96,GNFD,3.02
+2016,General Fund,0001HOU,Housing GF,Comprehensive Homeless Outreach,RE,Reimbursements,-163366,0,-486195.58,-486195.58,GNFD,3.09
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Animal Remains Collection,QV,Contractual & Other Services,85181,0,88782.42,88782.42,EFOP,3.03
+2016,General Fund,0001POM,Business Development & Procurement GF,Vendor Development,QV,Contractual & Other Services,19603,0,9233.98,9233.98,GNFD,2.5099999999999998
+2016,General Fund,0001DPD,Police Department GF,Department Support,RE,Reimbursements,-7941426,0,-10369049.26,-10369049.26,GNFD,9.99
+2016,General Fund,0001OCA,Office of Cultural Affairs GF,Public Art for Dallas,QM,Supplies & Materials,3398,0,4429.32,4429.32,GNFD,4.1100000000000003
+2016,General Fund,0001IGS,Mgmt Services - Intergovernmental Services,Intergovernmental Services,RE,Reimbursements,-332215,0,-299056.14,-299056.14,GNFD,5.41
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Recycling Collection and Waste Diversion,QM,Supplies & Materials,497930,0,321059.48,321059.48,EFOP,3.19
+2016,Other Operating Fund,0278PER,Employee Benefits Administration,HR Benefits Administration Services,QM,Supplies & Materials,15685,0,15117.78,15117.78,OTHO,5.J
+2017,General Fund,0001STS,Street Services GF,Pavement Management,PS,Personnel Services,238071,0,70433.76,70433.76,GNFD,2.31
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,City Fleet Asset Management,QM,Supplies & Materials,546167,0,977396.46,977396.46,INSV,5.D
+2016,General Fund,0001CVS,Civil Service GF,Fire Applicant - Physical Abilities Testing,QV,Contractual & Other Services,1678,0,0,0,GNFD,5.33
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Landfill Services,PS,Personnel Services,6077168,0,6098931.05,6098931.05,EFOP,3.16
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,"EMS Administration, Contracts, and Community Health",RE,Reimbursements,0,0,-16273.70,-16273.70,GNFD,1.08
+2016,Other Operating Fund,0195ORM,Office of Risk Management,Risk Management Services,QM,Supplies & Materials,293499,0,143709.51,143709.51,OTHO,5.P
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Brush/Bulk Waste Removal Services,QM,Supplies & Materials,985848,0,695374.74,695374.74,EFOP,3.04
+2016,General Fund,0001DPD,Police Department GF,Police Recruiting and Personnel Service,PS,Personnel Services,6927914,0,6623217.38,6623217.38,GNFD,1.3
+2016,General Fund,0001ECO,Economic Development GF,Business Development,PS,Personnel Services,759664,0,506595.88,506595.88,GNFD,2.04
+2016,General Fund,0001CCS,Code Compliance GF,Consumer Health,PS,Personnel Services,2439606,0,2164668.45,2164668.45,GNFD,3.1
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Express Plan Review,PS,Personnel Services,1539515,0,1526668.83,1526668.83,EFOP,2.16
+2016,General Fund,0001DPD,Police Department GF,Juvenile Case Managers/First Offender Program,QM,Supplies & Materials,0,0,0,0,GNFD,1.1499999999999999
+2017,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Utilities Customer Account Services,RE,Reimbursements,-576915,0,-163163.94,-163163.94,EFOP,5.55
+2017,General Fund,0001ATT,City Attorney's Office GF,Litigation,RE,Reimbursements,-125706,0,-31573.83,-31573.83,GNFD,5.45
+2016,General Fund,0001PBW,Public Works GF,Land Surveying Services,QV,Contractual & Other Services,127891,0,129697.40,129697.40,GNFD,5.43
+2016,General Fund,0001CCS,Code Compliance GF,Neighborhood Code Compliance Services,PS,Personnel Services,13629796,0,14388654.29,14388654.29,GNFD,3.17
+2016,General Fund,0001ECO,Economic Development GF,Dallas Film Commission,RE,Reimbursements,-201298,0,-70000,-70000,GNFD,2.11
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Department Support,QM,Supplies & Materials,25774,0,37658.31,37658.31,GNFD,9.99
+2016,General Fund,0001HOU,Housing GF,Comprehensive Homeless Outreach,QM,Supplies & Materials,27216,0,18627.33,18627.33,GNFD,3.09
+2016,General Fund,0001PBW,Public Works GF,Department Support,QM,Supplies & Materials,3689,0,26260.88,26260.88,GNFD,9.99
+2017,General Fund,0001PKR,Park and Recreation GF,Department Support,RE,Reimbursements,-2780538,0,-158016.33,-158016.33,GNFD,9.99
+2016,General Fund,0001DPD,Police Department GF,Police Special Operations,TR,Transfers Out,273383,0,0,0,GNFD,1.31
+2016,General Fund,0001ECO,Economic Development GF,Economic Development Research and Information Services,QM,Supplies & Materials,17416,0,3542.82,3542.82,GNFD,2.14
+2016,General Fund,0001DPD,Police Department GF,Department Support,QM,Supplies & Materials,71167,0,181702.79,181702.79,GNFD,9.99
+2016,General Fund,0001EAD,Mgmt Services - Ethics and Diversity,Ethics and Diversity,RE,Reimbursements,-22529,0,0,0,GNFD,5.3
+2016,Internal Service Fund,0199POM,Express Business Center POM,Disposal of Surplus and Police Unclaimed Property,QV,Contractual & Other Services,507816,0,614044.47,614044.47,INSV,5.G
+2016,General Fund,0001HOU,Housing GF,Housing Management/Contract Support,QM,Supplies & Materials,2000,0,21945.21,21945.21,GNFD,5.37
+2016,General Fund,0001CSC,Mgmt Services - 311 Customer Service Center,311 Customer Service Center,QM,Supplies & Materials,18983,0,80571.34,80571.34,GNFD,5.01
+2016,General Fund,0001EBS,Building Services GF,"City Facility Operation, Maintenance and Repair",RE,Reimbursements,-853544,0,-2500219.52,-2500219.52,GNFD,5.17
+2016,General Fund,0001PKR,Park and Recreation GF,"Planning, Design, Construction & EMS and Environ Compliance",PS,Personnel Services,2470140,0,2662776.98,2662776.98,GNFD,4.0999999999999996
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Vital Statistics,QM,Supplies & Materials,84719,0,46620.69,46620.69,EFOP,5.53
+2016,General Fund,0001PKR,Park and Recreation GF,NONE,QV,Contractual & Other Services,0,0,2906.39,2906.39,GNFD,
+2017,General Fund,0001OFS,Non-Departmental,Non-Departmental,QM,Supplies & Materials,50000,0,2071.81,2071.81,GNFD,5.46
+2016,General Fund,0001ECO,Economic Development GF,Small Business Initiatives,TR,Transfers Out,100000,0,0,0,GNFD,2.4
+2016,General Fund,0001PKR,Park and Recreation GF,Operation & Maintenance of Fair Park,QM,Supplies & Materials,2520173,0,2270154.87,2270154.87,GNFD,2.2999999999999998
+2016,General Fund,0001STS,Street Services GF,Rights-of-Way Maintenance Contracts and Inspections Group,QV,Contractual & Other Services,9891660,0,4477623.84,4477623.84,GNFD,2.38
+2016,General Fund,0001DEV,Sustainable Dev and Construction GF,Real Estate and Relocation,PS,Personnel Services,2079348,0,2113447.40,2113447.40,GNFD,2.35
+2016,General Fund,0001ECO,Economic Development GF,Department Support,QM,Supplies & Materials,0,0,961.68,961.68,GNFD,9.99
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,Department Support,PS,Personnel Services,1515757,0,1543287.68,1543287.68,INSV,9.99
+2016,Enterprise Operating Fund,0130AVI,Airport Operations AVI,Aviation Facilities - Dallas Executive Airport & Vertiport,QM,Supplies & Materials,589531,0,178213.42,178213.42,EFOP,2.21
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Engineering & Inspection Review for Private Development,PS,Personnel Services,2131009,0,2175225.04,2175225.04,EFOP,2.15
+2016,General Fund,0001LIB,Library GF,Library Operations & Public Service,RE,Reimbursements,0,0,-18950.79,-18950.79,GNFD,4.07
+2016,General Obligation Debt Service,0981BMS,Debt Service BMS,Debt Service,WA,Debt Svc-Principal,145520977,0,145520977.30,145520977.30,DSGO,8.8800000000000008
+2017,General Fund,0001STS,Street Services GF,Capital and Implementation Program,RC,Capital Outlay,347780,0,67192.63,67192.63,GNFD,2.0499999999999998
+2016,General Fund,0001PBW,Public Works GF,Pavement Management,QM,Supplies & Materials,4189,0,5344.24,5344.24,GNFD,2.31
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Utilities Capital Program Management,PS,Personnel Services,11373842,0,10922244.75,10922244.75,EFOP,2.54
+2016,General Fund,0001OCA,Office of Cultural Affairs GF,Department Support,RE,Reimbursements,-337757,0,0,0,GNFD,9.99
+2016,General Fund,0001CCS,Code Compliance GF,Dallas Animal Services,PS,Personnel Services,6950185,0,6842463.44,6842463.44,GNFD,3.12
+2016,General Fund,0001PKR,Park and Recreation GF,Aquatic Services,QV,Contractual & Other Services,612216,0,376019.62,376019.62,GNFD,4.01
+2016,General Fund,0001PBW,Public Works GF,Ambient Air Monitoring,QV,Contractual & Other Services,131779,0,112779.60,112779.60,GNFD,3.02
+2016,General Fund,0001LIB,Library GF,Library Materials & Collection Management,RE,Reimbursements,0,0,-57457.89,-57457.89,GNFD,4.0599999999999996
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Residential Refuse Collection,PS,Personnel Services,14519109,0,14533459.48,14533459.48,EFOP,3.2
+2016,General Fund,0001OEM,Mgmt Services - Emergency Management,Emergency Management Operations,QM,Supplies & Materials,42787,0,40712,40712,GNFD,1.07
+2016,General Fund,0001PKR,Park and Recreation GF,Leisure Venue Management,QM,Supplies & Materials,739001,0,1099521.83,1099521.83,GNFD,4.05
+2016,Internal Service Fund,0198DSV,Information Technology DSV,Strategic Technology Management,PS,Personnel Services,6864062,0,5487873.45,5487873.45,INSV,5.Q
+2016,General Fund,0001PBW,Public Works GF,Capital Facilities,RC,Capital Outlay,52622,0,0,0,GNFD,2.0699999999999998
+2016,General Fund,0001PBW,Public Works GF,Street Cut and Right-of-Way Management (Cut Control),QM,Supplies & Materials,15142,0,9004.81,9004.81,GNFD,2.41
+2016,General Fund,0001CSC,Mgmt Services - 311 Customer Service Center,311 Customer Service Center,PS,Personnel Services,5331286,0,5583025.94,5583025.94,GNFD,5.01
+2017,General Fund,0001ATT,City Attorney's Office GF,"Environ Enforcement, Compliance, and Support (Legal Service)",RE,Reimbursements,-98665,0,-17388.96,-17388.96,GNFD,3.13
+2016,General Fund,0001PBW,Public Works GF,Ambient Air Monitoring,RC,Capital Outlay,25000,0,0,0,GNFD,3.02
+2016,Enterprise Operating Fund,0130AVI,Airport Operations AVI,Dallas Love Field,RE,Reimbursements,-6579773,0,-5344576.09,-5344576.09,EFOP,2.12
+2016,General Fund,0001POM,Business Development & Procurement GF,Purchasing/Contract Management,QV,Contractual & Other Services,293487,0,299764.26,299764.26,GNFD,5.49
+2016,General Fund,0001PKR,Park and Recreation GF,Recreation Services,QM,Supplies & Materials,2254788,0,2270541.76,2270541.76,GNFD,4.12
+2016,Internal Service Fund,0199POM,Express Business Center POM,Business Services,QM,Supplies & Materials,3553393,0,3554809.59,3554809.59,INSV,5.B
+2017,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Department Support,RE,Reimbursements,-373899,0,-57921,-57921,EFOP,9.99
+2016,General Fund,0001ECO,Economic Development GF,Department Support,RE,Reimbursements,-884013,0,-937793.22,-937793.22,GNFD,9.99
+2017,General Fund,0001ATT,City Attorney's Office GF,General Counsel,RE,Reimbursements,-323340,0,-98900.89,-98900.89,GNFD,5.34
+2016,General Fund,0001PER,Human Resources GF,HRIS and HR Payroll Services,QV,Contractual & Other Services,548644,0,530301.88,530301.88,GNFD,5.38
+2016,General Fund,0001PBW,Public Works GF,Land Surveying Services,QM,Supplies & Materials,17207,0,33341.58,33341.58,GNFD,5.43
+2016,General Fund,0001BMS,Office of Financial Services GF,Department Support,RE,Reimbursements,-301469,0,-267499.69,-267499.69,GNFD,9.99
+2016,General Fund,0001ECO,Economic Development GF,Area Redevelopment,QM,Supplies & Materials,10420,0,5790.50,5790.50,GNFD,2.0099999999999998
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Recycling Collection and Waste Diversion,PS,Personnel Services,3840774,0,3864908.29,3864908.29,EFOP,3.19
+2016,General Fund,0001PBW,Public Works GF,Capital Facilities,RE,Reimbursements,-1089826,0,-1071982.11,-1071982.11,GNFD,2.0699999999999998
+2016,General Fund,0001PNV,Planning and Urban Design GF,Planning and Design Studio,PS,Personnel Services,1293785,0,698494.47,698494.47,GNFD,2.3199999999999998
+2016,General Fund,0001PKR,Park and Recreation GF,Park Land Maintained,RE,Reimbursements,-3734899,0,-4250190.84,-4250190.84,GNFD,4.09
+2016,General Fund,0001ECO,Economic Development GF,Area Redevelopment,RE,Reimbursements,-773867,0,-688038.53,-688038.53,GNFD,2.0099999999999998
+2016,General Obligation Debt Service,0981BMS,Debt Service BMS,Debt Service,WB,Debt Svc-Interest On Bonds,98881308,0,91039204.85,91039204.85,DSGO,8.8800000000000008
+2016,General Fund,0001PKR,Park and Recreation GF,Department Support,RE,Reimbursements,-2780538,0,0,0,GNFD,9.99
+2016,General Fund,0001EAD,Mgmt Services - Ethics and Diversity,Ethics and Diversity,QM,Supplies & Materials,1500,0,11276.76,11276.76,GNFD,5.3
+2016,General Fund,0001PNV,Planning and Urban Design GF,Planning and Design Studio,RE,Reimbursements,-293405,0,0,0,GNFD,2.3199999999999998
+2016,General Fund,0001OEQ,Mgmt Services - Environmental Quaity,Environmental Quality,QV,Contractual & Other Services,760669,0,214261.15,214261.15,GNFD,3.14
+2016,General Fund,0001CTS,Court and Detention Services GF,Municipal Court Services,PS,Personnel Services,5239616,0,4833211.86,4833211.86,GNFD,1.17
+2017,Enterprise Operating Fund,0130AVI,Airport Operations AVI,Dallas Love Field,WB,Debt Svc-Interest On Bonds,3150,0,2202.04,2202.04,EFOP,2.12
+2017,General Fund,0001PKR,Park and Recreation GF,Recreation Services,RC,Capital Outlay,45000,0,11360.25,11360.25,GNFD,4.12
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,City GIS Services,RE,Reimbursements,-1008707,0,-1041054.17,-1041054.17,EFOP,5.18
+2016,General Fund,0001PBW,Public Works GF,Land Surveying Services,RE,Reimbursements,-623819,0,-547615.33,-547615.33,GNFD,5.43
+2017,General Fund,0001CCS,Code Compliance GF,Dallas Animal Services,RE,Reimbursements,0,0,-17680,-17680,GNFD,3.12
+2016,General Fund,0001POM,Business Development & Procurement GF,Purchasing/Contract Management,QM,Supplies & Materials,12929,0,13529.65,13529.65,GNFD,5.49
+2016,General Fund,0001PBW,Public Works GF,Capital Facilities,QV,Contractual & Other Services,417491,0,489247.04,489247.04,GNFD,2.0699999999999998
+2016,General Fund,0001STS,Street Services GF,Rights-of-Way Maintenance Contracts and Inspections Group,RE,Reimbursements,-954000,0,0,0,GNFD,2.38
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Fire Investigation & Explosive Ordnance Disposal,QM,Supplies & Materials,34455,0,61287.12,61287.12,GNFD,1.1100000000000001
+2016,General Fund,0001STS,Street Services GF,Service Maintenance Areas,RE,Reimbursements,-3425443,0,0,0,GNFD,2.39
+2016,General Fund,0001POM,Business Development & Procurement GF,Purchasing/Contract Management,PS,Personnel Services,1864511,0,1934395.36,1934395.36,GNFD,5.49
+2016,Internal Service Fund,0199POM,Express Business Center POM,Business Services,PS,Personnel Services,433998,0,436469.24,436469.24,INSV,5.B
+2016,General Fund,0001STS,Street Services GF,Department Support,RE,Reimbursements,-1225127,0,0,0,GNFD,9.99
+2016,General Fund,RSVTRAN,Reserves & Transfers,Contingency Reserve,TR,Transfers Out,2628101,0,2628101,2628101,GNFD,5.22
+2016,General Fund,RSVTRAN,Reserves & Transfers,Liability/Claims Fund Transfer,QV,Contractual & Other Services,1994219,0,1994219,1994219,GNFD,5.44
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Animal Remains Collection,QM,Supplies & Materials,45688,0,31903.34,31903.34,EFOP,3.03
+2017,General Fund,0001DFD,Dallas Fire Rescue GF,Fire Inspection for New Construction,RE,Reimbursements,-1629602,0,-436257.64,-436257.64,GNFD,2.1800000000000002
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Express Plan Review,QV,Contractual & Other Services,22700,0,27198.55,27198.55,EFOP,2.16
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Fire Training and Recruitment,PS,Personnel Services,11797172,0,7308182.84,7308182.84,GNFD,1.1200000000000001
+2016,General Fund,0001PER,Human Resources GF,Human Resource Consulting,QV,Contractual & Other Services,889705,0,749462.93,749462.93,GNFD,5.39
+2016,General Fund,0001PBW,Public Works GF,Capital and Implementation Program,RE,Reimbursements,-5164604,0,-4844198.49,-4844198.49,GNFD,2.0499999999999998
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Wastewater Treatment,RC,Capital Outlay,591569,0,697445.40,697445.40,EFOP,3.25
+2016,General Fund,0001LIB,Library GF,"Literacy Initiatives, Education & Community Engagement",QM,Supplies & Materials,28201,0,18977.68,18977.68,GNFD,4.08
+2016,General Fund,0001CVS,Civil Service GF,Civil Service Board Administration/Employee Appeals Process,QV,Contractual & Other Services,61936,0,22278.01,22278.01,GNFD,5.2
+2016,General Fund,0001DPD,Police Department GF,Police Administrative Support,QM,Supplies & Materials,2481323,0,2932476.20,2932476.20,GNFD,1.21
+2016,General Fund,0001CCO,City Controller's Office GF,Financial Reporting,QV,Contractual & Other Services,228668,0,218287.38,218287.38,GNFD,5.32
+2016,General Fund,0001PBW,Public Works GF,Interagency and Transportation Administration,QM,Supplies & Materials,8209,0,10154.65,10154.65,GNFD,2.2599999999999998
+2016,Internal Service Fund,0199POM,Express Business Center POM,Disposal of Surplus and Police Unclaimed Property,PS,Personnel Services,188844,0,186348.68,186348.68,INSV,5.G
+2016,General Fund,0001PKR,Park and Recreation GF,Golf and Tennis Centers,QM,Supplies & Materials,1217229,0,1336539.13,1336539.13,GNFD,4.04
+2016,General Fund,0001PKR,Park and Recreation GF,"Planning, Design, Construction & EMS and Environ Compliance",QV,Contractual & Other Services,283237,0,72574.36,72574.36,GNFD,4.0999999999999996
+2016,General Fund,0001PKR,Park and Recreation GF,Golf and Tennis Centers,RE,Reimbursements,-357319,0,-535611.07,-535611.07,GNFD,4.04
+2016,General Fund,0001LIB,Library GF,Library Materials & Collection Management,QV,Contractual & Other Services,1944446,0,1399658.85,1399658.85,GNFD,4.0599999999999996
+2016,General Fund,0001PER,Human Resources GF,Compensation Analysis / Classification,QV,Contractual & Other Services,121455,0,82371.73,82371.73,GNFD,5.21
+2016,Internal Service Fund,0199POM,Express Business Center POM,Disposal of Surplus and Police Unclaimed Property,TR,Transfers Out,11368,0,0,0,INSV,5.G
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,City Fleet Maintenance and Repair Services,PS,Personnel Services,13098086,0,12776108.53,12776108.53,INSV,5.E
+2016,General Fund,0001PBW,Public Works GF,Capital Facilities,QM,Supplies & Materials,10040,0,25186.86,25186.86,GNFD,2.0699999999999998
+2016,General Fund,0001PKR,Park and Recreation GF,Operation & Maintenance of Fair Park,PS,Personnel Services,3534037,0,3289819.77,3289819.77,GNFD,2.2999999999999998
+2016,Other Operating Fund,0278PER,Employee Benefits Administration,HR Benefits Administration Services,PS,Personnel Services,613928,0,513333.48,513333.48,OTHO,5.J
+2016,Other Operating Fund,0286PER,Wellness Program Fund,Wellness Program,QM,Supplies & Materials,1000,0,392.9,392.9,OTHO,5.R
+2016,General Fund,0001PKR,Park and Recreation GF,Recreation Services,PS,Personnel Services,12693742,0,13307630.72,13307630.72,GNFD,4.12
+2016,General Fund,0001DPD,Police Department GF,Police Academy and In-service Training,PS,Personnel Services,17663542,0,16743902.62,16743902.62,GNFD,1.2
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Fire Training and Recruitment,QM,Supplies & Materials,461293,0,901942.65,901942.65,GNFD,1.1200000000000001
+2016,Internal Service Fund,0198DSV,Information Technology DSV,Internal Computer Support,RC,Capital Outlay,0,0,755280,755280,INSV,5.K
+2017,General Fund,0001DFD,Dallas Fire Rescue GF,Special Operations,RE,Reimbursements,-5951946,0,-1423171.39,-1423171.39,GNFD,1.33
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,Fuel Procurement and Management,QM,Supplies & Materials,14245013,0,11073755.20,11073755.20,INSV,5.I
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Special Operations,RE,Reimbursements,-5951946,0,-5853507.19,-5853507.19,GNFD,1.33
+2016,General Fund,0001DEV,Sustainable Dev and Construction GF,Real Estate and Relocation,QM,Supplies & Materials,16481,0,19459.47,19459.47,GNFD,2.35
+2016,Enterprise Operating Fund,0080CCT,Convention Center CCT,Dallas Convention Center,QM,Supplies & Materials,4083826,0,3808098.31,3808098.31,EFOP,2.1
+2016,General Fund,0001ECO,Economic Development GF,Small Business Initiatives,RE,Reimbursements,-670815,0,-393685,-393685,GNFD,2.4
+2016,General Fund,0001POM,Business Development & Procurement GF,Business Inclusion & Development Compliance Monitoring,PS,Personnel Services,475373,0,447457.60,447457.60,GNFD,5.1100000000000003
+2016,General Fund,0001ATT,City Attorney's Office GF,Department Support,QM,Supplies & Materials,70235,0,47713.83,47713.83,GNFD,9.99
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,GIS Mapping for Private Development,RE,Reimbursements,0,0,-10040,-10040,EFOP,2.2200000000000002
+2016,Enterprise Operating Fund,0130AVI,Airport Operations AVI,Aviation Facilities - Dallas Executive Airport & Vertiport,RE,Reimbursements,0,0,-57901.25,-57901.25,EFOP,2.21
+2017,General Fund,0001STS,Street Services GF,Traffic Safety and Congestion Management,RC,Capital Outlay,1800000,0,6000,6000,GNFD,2.48
+2016,General Fund,0001STS,Street Services GF,Traffic Operations Maintenance,RE,Reimbursements,-837449,0,-1293752.91,-1293752.91,GNFD,2.4700000000000002
+2016,Enterprise Operating Fund,0130AVI,Airport Operations AVI,Capital Construction and Debt Service,TR,Transfers Out,25153923,0,19873688.55,19873688.55,EFOP,2.06
+2016,Enterprise Operating Fund,0080CCT,Convention Center CCT,Office of Special Events,PS,Personnel Services,446280,0,386470.99,386470.99,EFOP,2.29
+2016,General Fund,0001BMS,Office of Financial Services GF,Grant Administration,PS,Personnel Services,1099050,0,1107076.65,1107076.65,GNFD,5.36
+2016,General Fund,0001ATT,City Attorney's Office GF,Community Prosecution & Community Courts,QM,Supplies & Materials,23968,0,82221.41,82221.41,GNFD,3.07
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,Environmental Services for City Fleet Operations,QM,Supplies & Materials,67603,0,10846.31,10846.31,INSV,5.H
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Fire Inspection for New Construction,QV,Contractual & Other Services,62518,0,86050.63,86050.63,GNFD,2.1800000000000002
+2016,General Fund,0001PKR,Park and Recreation GF,Aquatic Services,QM,Supplies & Materials,749644,0,869976.30,869976.30,GNFD,4.01
+2016,General Fund,0001IGS,Mgmt Services - Intergovernmental Services,Intergovernmental Services,QV,Contractual & Other Services,79359,0,84563.50,84563.50,GNFD,5.41
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,City Fleet Paint and Body Shop Coordination,QM,Supplies & Materials,267,0,6649.41,6649.41,INSV,5.F
+2016,Enterprise Operating Fund,0061SDM,Storm Drainage Mgmt Operations,Floodplain and Drainage Management,QM,Supplies & Materials,20358,0,43017.46,43017.46,EFOP,2.2000000000000002
+2016,General Fund,0001BMS,Office of Financial Services GF,Grant Administration,RE,Reimbursements,0,0,-48131.45,-48131.45,GNFD,5.36
+2016,General Fund,0001ECO,Economic Development GF,Economic Development Major Projects & Other Programs,RE,Reimbursements,-346752,0,-239998.50,-239998.50,GNFD,2.13
+2016,General Fund,0001TWM,Trinity Watershed Management GF,Trinity River Corridor Operations,PS,Personnel Services,638013,0,561601.03,561601.03,GNFD,2.4900000000000002
+2017,Enterprise Operating Fund,0130AVI,Airport Operations AVI,Dallas Love Field,WA,Debt Svc-Principal,266039,0,132392.54,132392.54,EFOP,2.12
+2017,Enterprise Operating Fund,0061SDM,Storm Drainage Mgmt Operations,Stormwater Regulations & Enforcement,RC,Capital Outlay,199930,0,31965.75,31965.75,EFOP,3.22
+2016,General Fund,0001PBW,Public Works GF,Capital and Implementation Program,QM,Supplies & Materials,58392,0,72054.02,72054.02,GNFD,2.0499999999999998
+2016,General Fund,0001PKR,Park and Recreation GF,Recreation Services,QV,Contractual & Other Services,4425289,0,3192359.59,3192359.59,GNFD,4.12
+2016,General Fund,0001MCC,Mayor and City Council GF,Administrative Support for the Mayor and City Council,PS,Personnel Services,3587074,0,3864787.19,3864787.19,GNFD,5.03
+2016,General Fund,0001PKR,Park and Recreation GF,"Planning, Design, Construction & EMS and Environ Compliance",QM,Supplies & Materials,29352,0,17767.31,17767.31,GNFD,4.0999999999999996
+2017,Enterprise Operating Fund,0100DWU,Water Utilities DWU,DWU General Expense,TR,Transfers Out,24554000,0,6016926.75,6016926.75,EFOP,5.26
+2016,General Fund,0001PIO,Mgmt Services - Public Information Office,Public Information Office / Communications & Broadcasting,QM,Supplies & Materials,29779,0,24650.18,24650.18,GNFD,5.48
+2017,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Engineering & Inspection Review for Private Development,RE,Reimbursements,-548741,0,-166228,-166228,EFOP,2.15
+2017,General Fund,0001CCO,City Controller's Office GF,Cash and Debt Management,QM,Supplies & Materials,0,0,7.46,7.46,GNFD,5.12
+2016,General Fund,0001BMS,Office of Financial Services GF,Department Support,PS,Personnel Services,301049,0,258280.67,258280.67,GNFD,9.99
+2016,General Fund,0001OEQ,Mgmt Services - Environmental Quaity,Environmental Quality,PS,Personnel Services,1862852,0,1878613.46,1878613.46,GNFD,3.14
+2016,General Fund,0001ECO,Economic Development GF,Economic Development Research and Information Services,RE,Reimbursements,-511191,0,-514383.09,-514383.09,GNFD,2.14
+2016,Enterprise Operating Fund,0140OCA,Municipal Radio OCA,WRR Municipal Radio Classical Music,QM,Supplies & Materials,96915,0,86743.09,86743.09,EFOP,4.13
+2016,General Fund,0001STS,Street Services GF,Street Repair Division - Asphalt,QV,Contractual & Other Services,3767846,0,2675200.18,2675200.18,GNFD,2.4300000000000002
+2016,General Fund,0001ATT,City Attorney's Office GF,General Counsel,QM,Supplies & Materials,18072,0,5677.68,5677.68,GNFD,5.34
+2016,General Fund,0001PKR,Park and Recreation GF,Golf and Tennis Centers,QV,Contractual & Other Services,775355,0,955744.99,955744.99,GNFD,4.04
+2016,General Fund,0001ATT,City Attorney's Office GF,Code Litigation,PS,Personnel Services,894554,0,854897.16,854897.16,GNFD,3.06
+2016,General Fund,0001PBW,Public Works GF,Ambient Air Monitoring,RE,Reimbursements,-741278,0,-755298.14,-755298.14,GNFD,3.02
+2017,General Fund,0001CVS,Civil Service GF,Applicant Processing - Civilian,RE,Reimbursements,0,0,-557.78,-557.78,GNFD,5.05
+2016,General Fund,0001PBW,Public Works GF,Interagency and Transportation Administration,RE,Reimbursements,-704867,0,-867255.11,-867255.11,GNFD,2.2599999999999998
+2016,General Fund,0001CTJ,Judiciary GF,Civil Adjudication Court,PS,Personnel Services,434701,0,175971.42,175971.42,GNFD,1.03
+2016,General Fund,0001PBW,Public Works GF,Air Quality Compliance,QV,Contractual & Other Services,183929,0,162099.55,162099.55,GNFD,3.01
+2016,General Fund,0001DPD,Police Department GF,Police Special Operations,PS,Personnel Services,31263093,0,32974036.01,32974036.01,GNFD,1.31
+2016,General Fund,0001MCC,Mayor and City Council GF,Administrative Support for the Mayor and City Council,RE,Reimbursements,0,0,-151304.70,-151304.70,GNFD,5.03
+2017,General Fund,0001DPD,Police Department GF,Police Academy and In-service Training,RC,Capital Outlay,0,0,8937.60,8937.60,GNFD,1.2
+2016,General Fund,0001PBW,Public Works GF,Street Cut and Right-of-Way Management (Cut Control),QV,Contractual & Other Services,121086,0,131432.23,131432.23,GNFD,2.41
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Fire Training and Recruitment,RC,Capital Outlay,0,0,13.95,13.95,GNFD,1.1200000000000001
+2016,General Fund,0001ECO,Economic Development GF,Economic Development Major Projects & Other Programs,QM,Supplies & Materials,9462,0,1384.92,1384.92,GNFD,2.13
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Fire Investigation & Explosive Ordnance Disposal,QV,Contractual & Other Services,527160,0,733350.91,733350.91,GNFD,1.1100000000000001
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,Environmental Services for City Fleet Operations,QV,Contractual & Other Services,1513441,0,787589.60,787589.60,INSV,5.H
+2016,General Fund,0001PBW,Public Works GF,Pavement Management,QV,Contractual & Other Services,53708,0,32667.54,32667.54,GNFD,2.31
+2016,General Fund,0001CVS,Civil Service GF,Fire Applicant - Physical Abilities Testing,QM,Supplies & Materials,125,0,137.76,137.76,GNFD,5.33
+2017,Enterprise Operating Fund,0061SDM,Storm Drainage Mgmt Operations,Floodplain and Drainage Management,PS,Personnel Services,3059803,0,827244.53,827244.53,EFOP,2.2000000000000002
+2017,General Fund,0001STS,Street Services GF,Capital and Implementation Program,PS,Personnel Services,5731016,0,1896867.63,1896867.63,GNFD,2.0499999999999998
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Landfill Services,TR,Transfers Out,6781954,0,6645762.25,6645762.25,EFOP,3.16
+2017,General Fund,0001CTS,Court and Detention Services GF,Illegal Dump Team - Criminal Investigations and Arrests,RE,Reimbursements,-913180,0,-251251.44,-251251.44,GNFD,3.15
+2017,Internal Service Fund,0196EBS,Equipment Services EBS,Fuel Procurement and Management,RE,Reimbursements,-358179,0,-94680.96,-94680.96,INSV,5.I
+2017,General Obligation Debt Service,0981BMS,Debt Service BMS,Debt Service,WB,Debt Svc-Interest On Bonds,106075392,0,62742077.07,62742077.07,DSGO,8.8800000000000008
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Engineering & Inspection Review for Private Development,QV,Contractual & Other Services,381531,0,212860.35,212860.35,EFOP,2.15
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Department Support,QV,Contractual & Other Services,1096562,0,928380.21,928380.21,EFOP,9.99
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Recycling Collection and Waste Diversion,QV,Contractual & Other Services,5811132,0,6661993.39,6661993.39,EFOP,3.19
+2016,General Fund,0001HOU,Housing GF,Comprehensive Homeless Outreach,TR,Transfers Out,0,0,0,0,GNFD,3.09
+2017,General Fund,0001OCA,Office of Cultural Affairs GF,City-Owned Cultural Venues,WA,Debt Svc-Principal,0,0,308009.96,308009.96,GNFD,4.0199999999999996
+2017,General Fund,0001OFS,Non-Departmental,Non-Departmental,PS,Personnel Services,600000,0,0,0,GNFD,5.46
+2017,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Zoning & Board of Adjustment,RE,Reimbursements,-88214,0,-19075.65,-19075.65,EFOP,2.5499999999999998
+2017,General Fund,0001ATT,City Attorney's Office GF,DFW International Airport Legal Counsel,QV,Contractual & Other Services,735,0,885,885,GNFD,5.25
+2017,General Fund,0001ECO,Economic Development GF,Area Redevelopment,QM,Supplies & Materials,10420,0,559.19000000000005,559.19000000000005,GNFD,2.0099999999999998
+2016,General Fund,0001EAD,Mgmt Services - Ethics and Diversity,Ethics and Diversity,PS,Personnel Services,239865,0,91142.72,91142.72,GNFD,5.3
+2017,General Fund,0001DPD,Police Department GF,Police Investigation of Vice Related Crimes,RE,Reimbursements,-26000,0,-16725,-16725,GNFD,1.26
+2017,General Fund,0001OCA,Office of Cultural Affairs GF,Cultural Services Contracts,RE,Reimbursements,-1530267,0,-600,-600,GNFD,4.03
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Wastewater Collection,RC,Capital Outlay,532500,0,445530.80,445530.80,EFOP,3.24
+2016,General Fund,0001ATT,City Attorney's Office GF,Police Legal Liaison,QV,Contractual & Other Services,92841,0,79072.75,79072.75,GNFD,1.28
+2016,General Fund,0001DPD,Police Department GF,Police Field Patrol,RE,Reimbursements,0,0,-2429330.60,-2429330.60,GNFD,1.24
+2017,General Fund,0001TWM,Trinity Watershed Management GF,Trinity River Corridor Operations,RC,Capital Outlay,0,0,10031.04,10031.04,GNFD,2.4900000000000002
+2017,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Residential Refuse Collection,TR,Transfers Out,900516,0,115.61,115.61,EFOP,3.2
+2016,General Fund,0001DPD,Police Department GF,Juvenile Case Managers/First Offender Program,QV,Contractual & Other Services,0,0,0,0,GNFD,1.1499999999999999
+2016,General Fund,0001ATT,City Attorney's Office GF,DFW International Airport Legal Counsel,QV,Contractual & Other Services,0,0,705,705,GNFD,5.25
+2017,General Fund,0001CVS,Civil Service GF,Analysis/Development and Validation,RE,Reimbursements,0,0,-1002.28,-1002.28,GNFD,5.04
+2016,General Fund,0001HOU,Housing GF,Comprehensive Homeless Outreach,QV,Contractual & Other Services,5735120,0,5945573.59,5945573.59,GNFD,3.09
+2017,Enterprise Operating Fund,0080CCT,Convention Center CCT,Dallas Convention Center,TR,Transfers Out,13677541,0,1445542.64,1445542.64,EFOP,2.1
+2016,General Fund,0001SEC,City Secretary's Office GF,Records Management,QV,Contractual & Other Services,324263,0,180996.88,180996.88,GNFD,5.5
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Utilities Capital Program Management,QV,Contractual & Other Services,1921681,0,1582478.77,1582478.77,EFOP,2.54
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,City Fleet Asset Management,QV,Contractual & Other Services,1329937,0,1269283.40,1269283.40,INSV,5.D
+2017,General Fund,0001OCA,Office of Cultural Affairs GF,City-Owned Cultural Venues,WB,Debt Svc-Interest On Bonds,0,0,23345.54,23345.54,GNFD,4.0199999999999996
+2017,General Fund,0001STS,Street Services GF,Mobility Planning,PS,Personnel Services,710017,0,278741.36,278741.36,GNFD,2.27
+2016,General Fund,0001OFS,Non-Departmental,Non-Departmental,PS,Personnel Services,600000,0,489100.96,489100.96,GNFD,5.46
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Subdivision Plat Review,QV,Contractual & Other Services,118256,0,28910.22,28910.22,EFOP,2.4500000000000002
+2016,General Fund,0001ATT,City Attorney's Office GF,Code Litigation,QV,Contractual & Other Services,126416,0,103640.75,103640.75,GNFD,3.06
+2017,General Fund,0001ADM,Mgmt Services - Admin,311 Customer Service Center,RE,Reimbursements,-299179,0,-299179,-299179,GNFD,5.01
+2017,General Fund,0001POM,Business Development & Procurement GF,Vendor Development,QM,Supplies & Materials,225,0,195,195,GNFD,2.5099999999999998
+2017,General Fund,0001STS,Street Services GF,Street Resurfacing,PS,Personnel Services,524585,0,102635.49,102635.49,GNFD,2.56
+2016,General Obligation Debt Service,0981BMS,Debt Service BMS,Debt Service,QV,Contractual & Other Services,10923451,0,10710577.07,10710577.07,DSGO,8.8800000000000008
+2017,General Fund,0001CSC,Mgmt Services - 311 Customer Service Center,311 Customer Service Center,RE,Reimbursements,-4129653,0,-2196416.32,-2196416.32,GNFD,5.01
+2016,General Fund,0001PIO,Mgmt Services - Public Information Office,Public Information Office / Communications & Broadcasting,QV,Contractual & Other Services,171204,0,241695.14,241695.14,GNFD,5.48
+2017,General Fund,0001EBS,Building Services GF,Energy Procurement and Monitoring,RE,Reimbursements,-159493,0,-442346.44,-442346.44,GNFD,5.29
+2016,General Fund,0001DPD,Police Department GF,Juvenile Case Managers/First Offender Program,RE,Reimbursements,-489854,0,-416112.69,-416112.69,GNFD,1.1499999999999999
+2016,General Fund,0001DPD,Police Department GF,Police Administrative Support,RE,Reimbursements,-325051,0,-365416.08,-365416.08,GNFD,1.21
+2016,General Fund,0001DPD,Police Department GF,Police Recruiting and Personnel Service,RE,Reimbursements,0,0,-187.42,-187.42,GNFD,1.3
+2017,General Fund,0001CTJ,Judiciary GF,Court Security,QM,Supplies & Materials,6925,0,939.77,939.77,GNFD,1.05
+2017,Enterprise Operating Fund,0080CCT,Convention Center CCT,Office of Special Events,QM,Supplies & Materials,9150,0,969.08,969.08,EFOP,2.29
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Conservation,RC,Capital Outlay,25000,0,23211,23211,EFOP,3.26
+2017,General Fund,0001STS,Street Services GF,Street Cut and Right-of-Way Management (Cut Control),PS,Personnel Services,573021,0,180286.33,180286.33,GNFD,2.41
+2017,Other Gifts and Donations,0398MCC,Gifts and Donations,NONE,QV,Contractual & Other Services,500,0,0,0,OTGD,
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Department Support,RE,Reimbursements,-1611733,0,-1611733,-1611733,GNFD,9.99
+2016,General Fund,0001OFS,Non-Departmental,General Obligation Commercial Paper and Master Lease Program,RC,Capital Outlay,0,0,760136.80,760136.80,GNFD,5.35
+2017,General Fund,0001DEV,Sustainable Dev and Construction GF,Authorized Hearings,QV,Contractual & Other Services,42047,0,2945.18,2945.18,GNFD,2.02
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Zoning & Board of Adjustment,QV,Contractual & Other Services,301927,0,121589.35,121589.35,EFOP,2.5499999999999998
+2016,General Fund,0001HOU,Housing GF,Community/Senior Services,QV,Contractual & Other Services,1618339,0,1742049.11,1742049.11,GNFD,3.08
+2017,Internal Service Fund,0196EBS,Equipment Services EBS,Environmental Services for City Fleet Operations,RE,Reimbursements,-1145676,0,-162577.64,-162577.64,INSV,5.H
+2017,General Obligation Debt Service,0981BMS,Debt Service BMS,Debt Service,WA,Debt Svc-Principal,142294089,0,131239089,131239089,DSGO,8.8800000000000008
+2016,General Fund,0001HOU,Housing GF,Home Ownership/Development,QV,Contractual & Other Services,9191,0,22615.13,22615.13,GNFD,2.2400000000000002
+2016,General Fund,0001STS,Street Services GF,Traffic Safety and Congestion Management,RE,Reimbursements,-195029,0,-51466.59,-51466.59,GNFD,2.48
+2016,General Fund,0001LIB,Library GF,Library Operations & Public Service,PS,Personnel Services,17840715,0,16614079.33,16614079.33,GNFD,4.07
+2016,General Fund,0001PER,Human Resources GF,Human Resource Consulting,RE,Reimbursements,-292724,0,-286366.52,-286366.52,GNFD,5.39
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Brush/Bulk Waste Removal Services,TR,Transfers Out,863073,0,426507.23,426507.23,EFOP,3.04
+2016,General Fund,0001PNV,Planning and Urban Design GF,Department Support,RE,Reimbursements,-591799,0,-961809.80,-961809.80,GNFD,9.99
+2017,General Fund,0001PKR,Park and Recreation GF,"Planning, Design, Construction & EMS and Environ Compliance",RE,Reimbursements,-100000,0,-11256.72,-11256.72,GNFD,4.0999999999999996
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Field Inspections of Private Development Construction Sites,QM,Supplies & Materials,194846,0,171033.96,171033.96,EFOP,2.17
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Brush/Bulk Waste Removal Services,QV,Contractual & Other Services,6006492,0,5060622.82,5060622.82,EFOP,3.04
+2016,Enterprise Operating Fund,0061SDM,Storm Drainage Mgmt Operations,Stormwater Regulations & Enforcement,QM,Supplies & Materials,327795,0,335650.45,335650.45,EFOP,3.22
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Residential Refuse Collection,QM,Supplies & Materials,3343190,0,3878272.73,3878272.73,EFOP,3.2
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Fire-Rescue Equipment Maintenance and Supply,QM,Supplies & Materials,3201780,0,1560086.90,1560086.90,GNFD,1.1299999999999999
+2016,General Fund,0001DPD,Police Department GF,Police Community Outreach,QV,Contractual & Other Services,97916,0,126934.82,126934.82,GNFD,1.22
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Fire Dispatch and Communications,RE,Reimbursements,-3461000,0,0,0,GNFD,1.1000000000000001
+2017,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Engineering & Inspection Review for Private Development,WB,Debt Svc-Interest On Bonds,3469,0,2795.81,2795.81,EFOP,2.15
+2016,General Fund,0001OEQ,Mgmt Services - Environmental Quaity,Environmental Quality,QM,Supplies & Materials,57387,0,53504.09,53504.09,GNFD,3.14
+2016,General Fund,0001ATT,City Attorney's Office GF,General Counsel,QV,Contractual & Other Services,633414,0,437017.97,437017.97,GNFD,5.34
+2016,General Fund,0001PKR,Park and Recreation GF,Recreation Services,RC,Capital Outlay,100000,0,144756.91,144756.91,GNFD,4.12
+2016,General Fund,0001CSC,Mgmt Services - 311 Customer Service Center,311 Customer Service Center,QV,Contractual & Other Services,905418,0,946884.64,946884.64,GNFD,5.01
+2016,Internal Service Fund,0198DSV,Information Technology DSV,Public Safety Technology Support,RC,Capital Outlay,0,0,12600,12600,INSV,5.O
+2017,General Fund,0001STL,Street Lighting,Street Lighting,RE,Reimbursements,0,0,-106.05,-106.05,GNFD,2.42
+2017,General Fund,0001LEW,Jail Contract,Lew Sterrett Jail Contract,QV,Contractual & Other Services,7812862,0,3255359.15,3255359.15,GNFD,1.1599999999999999
+2017,General Fund,0001DPD,Police Department GF,Department Support,RE,Reimbursements,-8683455,0,-22,-22,GNFD,9.99
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Private Development Records and Archival Library,QV,Contractual & Other Services,240367,0,23419.81,23419.81,EFOP,2.33
+2016,General Fund,0001PKR,Park and Recreation GF,Leisure Venue Management,QV,Contractual & Other Services,17178489,0,15793980.63,15793980.63,GNFD,4.05
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Fire Training and Recruitment,RE,Reimbursements,0,0,-7300,-7300,GNFD,1.1200000000000001
+2016,General Fund,0001PNV,Planning and Urban Design GF,Neighborhood Vitality,QV,Contractual & Other Services,205125,0,375301.51,375301.51,GNFD,2.2799999999999998
+2017,General Fund,0001DEV,Sustainable Dev and Construction GF,Historic Preservation,RE,Reimbursements,-167363,0,-18411.87,-18411.87,GNFD,2.23
+2017,General Fund,0001POM,Business Development & Procurement GF,Business Inclusion & Development Compliance Monitoring,RE,Reimbursements,-77110,0,0,0,GNFD,5.1100000000000003
+2017,Internal Service Fund,0196EBS,Equipment Services EBS,City Fleet Maintenance and Repair Services,RE,Reimbursements,-353376,0,-65072,-65072,INSV,5.E
+2017,General Fund,0001MCC,Mayor and City Council GF,Administrative Support for the Mayor and City Council,RE,Reimbursements,0,0,-22395.55,-22395.55,GNFD,5.03
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Residential Refuse Collection,TR,Transfers Out,3733763,0,844537.73,844537.73,EFOP,3.2
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,City Facility Services,TR,Transfers Out,40663,0,0,0,EFOP,3.05
+2016,General Fund,0001DPD,Police Department GF,Police Criminal Investigations,RE,Reimbursements,-236000,0,-328719.83,-328719.83,GNFD,1.23
+2016,General Fund,0001EBS,Building Services GF,Department Support,QV,Contractual & Other Services,9907,0,71946.91,71946.91,GNFD,9.99
+2016,General Fund,0001STS,Street Services GF,Traffic Safety and Congestion Management,QV,Contractual & Other Services,952091,0,952096.55,952096.55,GNFD,2.48
+2016,Internal Service Fund,0197DSV,Radio Services DSV,Internal Radio Communication,QM,Supplies & Materials,737436,0,900138.29,900138.29,INSV,5.M
+2016,General Fund,0001DPD,Police Department GF,Police Recruiting and Personnel Service,QM,Supplies & Materials,97662,0,139440.40,139440.40,GNFD,1.3
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Recycling Collection and Waste Diversion,TR,Transfers Out,863694,0,265612.49,265612.49,EFOP,3.19
+2016,General Fund,0001CCO,City Controller's Office GF,Accounts Payable,QM,Supplies & Materials,39164,0,39507.68,39507.68,GNFD,5.0199999999999996
+2017,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Subdivision Plat Review,PS,Personnel Services,467076,0,190451.19,190451.19,EFOP,2.4500000000000002
+2017,General Fund,0001CTJ,Judiciary GF,Civil Adjudication Court,PS,Personnel Services,398043,0,60699.10,60699.10,GNFD,1.03
+2017,General Fund,0001DFD,Dallas Fire Rescue GF,Fire-Rescue Equipment Maintenance and Supply,PS,Personnel Services,4131957,0,2062405.31,2062405.31,GNFD,1.1299999999999999
+2017,General Fund,0001PER,Human Resources GF,Compensation Analysis / Classification,PS,Personnel Services,367509,0,173011.81,173011.81,GNFD,5.21
+2017,General Fund,0001ECO,Economic Development GF,Economic Development Major Projects & Other Programs,QM,Supplies & Materials,9462,0,65.23,65.23,GNFD,2.13
+2017,General Fund,0001DFD,Dallas Fire Rescue GF,Special Operations,PS,Personnel Services,6295389,0,2585272.12,2585272.12,GNFD,1.33
+2016,General Fund,0001SEC,City Secretary's Office GF,City Council Support,QV,Contractual & Other Services,157381,0,296636.10,296636.10,GNFD,5.16
+2016,General Fund,0001ADM,Mgmt Services - Admin,311 Customer Service Center,RE,Reimbursements,-286825,0,-282979,-282979,GNFD,5.01
+2017,Enterprise Operating Fund,0061SDM,Storm Drainage Mgmt Operations,Flood Control,PS,Personnel Services,9222569,0,3058992.70,3058992.70,EFOP,2.19
+2017,Internal Service Fund,0198DSV,Information Technology DSV,Public Safety Technology Support,QM,Supplies & Materials,94840,0,1750.45,1750.45,INSV,5.O
+2017,General Fund,0001EMS,Mgmt Services - EMS Compliance,EMS Compliance Program,QM,Supplies & Materials,2200,0,394.16,394.16,GNFD,5.28
+2017,General Fund,0001AUD,City Auditor's Office GF,"Audits, Attestations and Investigations",QM,Supplies & Materials,27720,0,2066.58,2066.58,GNFD,5.08
+2017,General Fund,0001ATT,City Attorney's Office GF,Police Legal Liaison,PS,Personnel Services,592108,0,284621.89,284621.89,GNFD,1.28
+2017,General Fund,0001DFD,Dallas Fire Rescue GF,Fire Investigation & Explosive Ordnance Disposal,PS,Personnel Services,4237597,0,1749527.55,1749527.55,GNFD,1.1100000000000001
+2017,General Fund,0001STS,Street Services GF,Street Forestry Division,PS,Personnel Services,231168,0,3631.43,3631.43,GNFD,2.57
+2016,General Fund,0001OCA,Office of Cultural Affairs GF,Public Art for Dallas,QV,Contractual & Other Services,188542,0,133549.36,133549.36,GNFD,4.1100000000000003
+2017,General Fund,0001EBS,Building Services GF,Custodial Maintenance,PS,Personnel Services,2034733,0,863110.25,863110.25,GNFD,3.11
+2017,Internal Service Fund,0198DSV,Information Technology DSV,Business Technology Services,PS,Personnel Services,5762585,0,2332845.92,2332845.92,INSV,5.C
+2016,General Fund,0001DPD,Police Department GF,Police Academy and In-service Training,RE,Reimbursements,0,0,-50834.55,-50834.55,GNFD,1.2
+2017,Enterprise Operating Fund,0080CCT,Convention Center CCT,Dallas Convention Center,RE,Reimbursements,0,0,-72546.64,-72546.64,EFOP,2.1
+2017,General Fund,0001EBS,Building Services GF,Energy Procurement and Monitoring,QV,Contractual & Other Services,78451,0,30023.24,30023.24,GNFD,5.29
+2017,Internal Service Fund,026APER,City Emp Basic Life Insurance Fund,HR Benefits Administration Services,QV,Contractual & Other Services,0,0,223873.50,223873.50,INSV,5.J
+2017,General Fund,0001ELE,Elections,Elections,QM,Supplies & Materials,5007,0,2517.02,2517.02,GNFD,5.27
+2017,General Fund,0001DPD,Police Department GF,Police Community Outreach,PS,Personnel Services,1720058,0,807380.73,807380.73,GNFD,1.22
+2017,General Fund,0001CTS,Court and Detention Services GF,City Detention Center,PS,Personnel Services,1449415,0,808863.25,808863.25,GNFD,1.02
+2017,General Fund,0001STS,Street Services GF,Rights-of-Way Maintenance Contracts and Inspections Group,PS,Personnel Services,1630761,0,757945.61,757945.61,GNFD,2.38
+2017,General Fund,0001CTS,Court and Detention Services GF,Municipal Court Services,PS,Personnel Services,5305682,0,2251138.22,2251138.22,GNFD,1.17
+2016,General Fund,0001OCA,Office of Cultural Affairs GF,City-Owned Cultural Venues,QV,Contractual & Other Services,5549204,0,5352455.68,5352455.68,GNFD,4.0199999999999996
+2017,General Fund,0001PNV,Planning and Urban Design GF,Planning and Design Studio,PS,Personnel Services,1230782,0,383229.88,383229.88,GNFD,2.3199999999999998
+2017,Enterprise Operating Fund,0164AVI,Transportation Regulation,Regulation and Enforcement of For Hire Transportation,PS,Personnel Services,846634,0,177714.11,177714.11,EFOP,2.36
+2017,General Fund,0001CTS,Court and Detention Services GF,Illegal Dump Team - Criminal Investigations and Arrests,PS,Personnel Services,837090,0,362225.06,362225.06,GNFD,3.15
+2017,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Recycling Collection and Waste Diversion,PS,Personnel Services,4110542,0,1913890.67,1913890.67,EFOP,3.19
+2017,General Fund,0001OEQ,Mgmt Services - Environmental Quaity,Environmental Quality,PS,Personnel Services,2593594,0,1256173.10,1256173.10,GNFD,3.14
+2017,General Fund,0001EBS,Building Services GF,"City Facility Operation, Maintenance and Repair",PS,Personnel Services,8651277,0,4445702.11,4445702.11,GNFD,5.17
+2016,General Fund,0001DPD,Police Department GF,Police Recruiting and Personnel Service,QV,Contractual & Other Services,2735126,0,2700100.94,2700100.94,GNFD,1.3
+2017,General Fund,0001PIO,Mgmt Services - Public Information Office,Public Information Office / Communications & Broadcasting,RE,Reimbursements,-322573,0,-3342.94,-3342.94,GNFD,5.48
+2017,General Fund,0001SEC,City Secretary's Office GF,Archives,QV,Contractual & Other Services,14367,0,1065.18,1065.18,GNFD,5.07
+2017,Enterprise Operating Fund,0140OCA,Municipal Radio OCA,WRR Municipal Radio Classical Music,PS,Personnel Services,1211811,0,466949.50,466949.50,EFOP,4.13
+2017,General Fund,0001CCS,Code Compliance GF,Neighborhood Nuisance Abatement,RE,Reimbursements,-893597,0,-113446.38,-113446.38,GNFD,3.18
+2017,General Fund,0001FHO,Mgmt Services - Fair Housing,Fair Housing and Human Rights Compliance,QV,Contractual & Other Services,239117,0,9262.64,9262.64,GNFD,5.31
+2017,Enterprise Operating Fund,0130AVI,Airport Operations AVI,Dallas Love Field,RE,Reimbursements,-6131526,0,-1401206.50,-1401206.50,EFOP,2.12
+2016,General Fund,0001ATT,City Attorney's Office GF,Department Support,QV,Contractual & Other Services,0,0,190060.77,190060.77,GNFD,9.99
+2017,General Fund,0001DPD,Police Department GF,Police Operational Support,PS,Personnel Services,31327476,0,14961511.60,14961511.60,GNFD,1.29
+2017,General Fund,0001CCO,City Controller's Office GF,Deferred Compensation,RE,Reimbursements,-116800,0,-61681.92,-61681.92,GNFD,5.24
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Fire Dispatch and Communications,QV,Contractual & Other Services,7801695,0,7533165.42,7533165.42,GNFD,1.1000000000000001
+2017,Internal Service Fund,0196EBS,Equipment Services EBS,Fuel Procurement and Management,PS,Personnel Services,795531,0,367766.28,367766.28,INSV,5.I
+2017,General Fund,0001LIB,Library GF,Library Operations & Public Service,PS,Personnel Services,18176908,0,8403610.50,8403610.50,GNFD,4.07
+2017,General Fund,0001DFD,Dallas Fire Rescue GF,Inspection and Life Safety Education,PS,Personnel Services,9054467,0,3695078.31,3695078.31,GNFD,1.1399999999999999
+2017,General Fund,0001CSC,Mgmt Services - 311 Customer Service Center,311 Customer Service Center,PS,Personnel Services,5760532,0,2824921.58,2824921.58,GNFD,5.01
+2017,General Fund,0001EBS,Building Services GF,Department Support,RE,Reimbursements,-763906,0,-392464.93,-392464.93,GNFD,9.99
+2017,General Fund,0001EBS,Building Services GF,Capital Facilities,RE,Reimbursements,-954840,0,-134999.10,-134999.10,GNFD,2.0699999999999998
+2016,General Fund,0001HOU,Housing GF,Housing Management/Contract Support,QV,Contractual & Other Services,92810,0,254730.69,254730.69,GNFD,5.37
+2016,General Fund,0001ATT,City Attorney's Office GF,Litigation,QV,Contractual & Other Services,702729,0,1125772.91,1125772.91,GNFD,5.45
+2017,General Fund,0001ECO,Economic Development GF,Business Development,PS,Personnel Services,763301,0,251817.64,251817.64,GNFD,2.04
+2017,Internal Service Fund,0197DSV,Radio Services DSV,Internal Radio Communication,PS,Personnel Services,2333488,0,1077493.95,1077493.95,INSV,5.M
+2017,General Fund,0001BMS,Office of Financial Services GF,Department Support,PS,Personnel Services,314945,0,126439.02,126439.02,GNFD,9.99
+2017,General Fund,0001CCS,Code Compliance GF,Neighborhood Code Compliance Services,PS,Personnel Services,15785659,0,7557369.20,7557369.20,GNFD,3.17
+2017,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Field Inspections of Private Development Construction Sites,PS,Personnel Services,6719118,0,2765535.18,2765535.18,EFOP,2.17
+2017,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Production and Delivery,RE,Reimbursements,-1434530,0,-12204.72,-12204.72,EFOP,2.5299999999999998
+2017,Enterprise Operating Fund,0130AVI,Airport Operations AVI,Aviation Facilities - Dallas Executive Airport & Vertiport,PS,Personnel Services,1087659,0,251185.03,251185.03,EFOP,2.21
+2017,General Fund,0001PIO,Mgmt Services - Public Information Office,Public Information Office / Communications & Broadcasting,PS,Personnel Services,1406998,0,611082.49,611082.49,GNFD,5.48
+2017,General Fund,0001CPE,Mgmt Services - Strategic Initiatives,Center for Performance Excellence,PS,Personnel Services,1191439,0,518770.56,518770.56,GNFD,5.13
+2017,General Fund,0001POM,Business Development & Procurement GF,Purchasing/Contract Management,PS,Personnel Services,2062327,0,993014.43,993014.43,GNFD,5.49
+2017,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Zoning & Board of Adjustment,PS,Personnel Services,1538789,0,671815.96,671815.96,EFOP,2.5499999999999998
+2017,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Wastewater Collection,PS,Personnel Services,13786084,0,5897160.77,5897160.77,EFOP,3.24
+2017,General Fund,0001DFD,Dallas Fire Rescue GF,Fire-Rescue Equipment Maintenance and Supply,RE,Reimbursements,-133017,0,-32223.59,-32223.59,GNFD,1.1299999999999999
+2017,General Fund,0001STS,Street Services GF,Street Repair Division - Concrete,PS,Personnel Services,8561642,0,3847080.08,3847080.08,GNFD,2.44
+2017,General Fund,0001AUD,City Auditor's Office GF,"Audits, Attestations and Investigations",PS,Personnel Services,2949953,0,1283348.46,1283348.46,GNFD,5.08
+2017,General Fund,0001EBS,Building Services GF,Energy Procurement and Monitoring,PS,Personnel Services,153106,0,78463.06,78463.06,GNFD,5.29
+2017,General Fund,0001CCO,City Controller's Office GF,Accounts Payable,PS,Personnel Services,868177,0,362689.07,362689.07,GNFD,5.0199999999999996
+2017,General Fund,0001EBS,Building Services GF,Security Service for City Facilities,PS,Personnel Services,3769864,0,1620518.53,1620518.53,GNFD,1.32
+2016,General Fund,0001PKR,Park and Recreation GF,Aquatic Services,RC,Capital Outlay,0,0,7195,7195,GNFD,4.01
+2017,General Fund,0001STS,Street Services GF,Interagency and Transportation Administration,QM,Supplies & Materials,10271,0,728.74,728.74,GNFD,2.2599999999999998
+2017,General Fund,0001SEC,City Secretary's Office GF,Boards and Commissions Support,QV,Contractual & Other Services,69504,0,7079.63,7079.63,GNFD,5.0999999999999996
+2016,General Fund,0001CTJ,Judiciary GF,Community Court,RE,Reimbursements,-49957,0,-46862.10,-46862.10,GNFD,1.04
+2017,General Fund,0001EMS,Mgmt Services - EMS Compliance,EMS Compliance Program,PS,Personnel Services,397280,0,140725.54,140725.54,GNFD,5.28
+2017,Internal Service Fund,0196EBS,Equipment Services EBS,Environmental Services for City Fleet Operations,PS,Personnel Services,443745,0,161654.17,161654.17,INSV,5.H
+2016,General Fund,0001DPD,Police Department GF,Police Operational Support,RE,Reimbursements,-9339000,0,-8831411.30,-8831411.30,GNFD,1.29
+2017,General Fund,0001HOU,Housing GF,Comprehensive Homeless Outreach,PS,Personnel Services,2217744,0,752077.99,752077.99,GNFD,3.09
+2017,General Fund,0001ATT,City Attorney's Office GF,Department Support,PS,Personnel Services,1269981,0,849995.75,849995.75,GNFD,9.99
+2017,Enterprise Operating Fund,0080CCT,Convention Center CCT,Dallas Convention Center,PS,Personnel Services,8275617,0,3667011.09,3667011.09,EFOP,2.1
+2017,Internal Service Fund,0198DSV,Information Technology DSV,City GIS Services,QM,Supplies & Materials,25975,0,7872.20,7872.20,INSV,5.18
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Inspection and Life Safety Education,QV,Contractual & Other Services,207354,0,270261.70,270261.70,GNFD,1.1399999999999999
+2017,General Fund,0001HOU,Housing GF,Comprehensive Homeless Outreach,RE,Reimbursements,-244887,0,-179560.31,-179560.31,GNFD,3.09
+2017,Internal Service Fund,0198DSV,Information Technology DSV,Internal Computer Support,PS,Personnel Services,3198345,0,1380575.90,1380575.90,INSV,5.K
+2017,General Fund,0001DPD,Police Department GF,Police Operational Support,RE,Reimbursements,-8025000,0,4830.60,4830.60,GNFD,1.29
+2017,General Fund,0001DPD,Police Department GF,Police Investigations of Narcotics Related Crimes,PS,Personnel Services,13603253,0,6139059.49,6139059.49,GNFD,1.27
+2017,General Fund,0001BMS,Office of Financial Services GF,Utility Management,PS,Personnel Services,136103,0,65773.96,65773.96,GNFD,5.52
+2016,General Fund,0001CTJ,Judiciary GF,Municipal Judges/Cases Docketed,QV,Contractual & Other Services,205479,0,189284.38,189284.38,GNFD,1.18
+2016,General Fund,0001BMS,Office of Financial Services GF,Non-Departmental,QV,Contractual & Other Services,0,0,0,0,GNFD,5.46
+2017,General Fund,0001OCA,Office of Cultural Affairs GF,City-Owned Cultural Venues,PS,Personnel Services,3144315,0,1454455.51,1454455.51,GNFD,4.0199999999999996
+2017,General Fund,0001DPD,Police Department GF,Police Community Outreach,QM,Supplies & Materials,12769,0,12142.54,12142.54,GNFD,1.22
+2017,Internal Service Fund,0198DSV,Information Technology DSV,Internal Telephone and Data Communication,PS,Personnel Services,484393,0,333536.69,333536.69,INSV,5.N
+2016,General Fund,0001CCO,City Controller's Office GF,Payroll,QV,Contractual & Other Services,90735,0,50826.86,50826.86,GNFD,5.47
+2017,General Fund,0001DEV,Sustainable Dev and Construction GF,Historic Preservation,QM,Supplies & Materials,10488,0,134.47,134.47,GNFD,2.23
+2017,General Fund,0001SEC,City Secretary's Office GF,Records Management,PS,Personnel Services,273967,0,139657.72,139657.72,GNFD,5.5
+2017,General Fund,0001HOU,Housing GF,Housing Management/Contract Support,PS,Personnel Services,877685,0,340713.08,340713.08,GNFD,5.37
+2017,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Department Support,QM,Supplies & Materials,2450,0,2601.12,2601.12,EFOP,9.99
+2017,General Fund,0001CRO,Mgmt Services - Resiliency Office,Resiliency Office,QV,Contractual & Other Services,6778,0,2691.24,2691.24,GNFD,2.37
+2017,General Fund,0001CVS,Civil Service GF,Fire Applicant - Physical Abilities Testing,PS,Personnel Services,92161,0,45240.15,45240.15,GNFD,5.33
+2017,Enterprise Operating Fund,0130AVI,Airport Operations AVI,Capital Construction and Debt Service,TR,Transfers Out,19801260,0,7244720.63,7244720.63,EFOP,2.06
+2016,General Fund,0001OFS,Non-Departmental,General Obligation Commercial Paper and Master Lease Program,QM,Supplies & Materials,0,0,2693.77,2693.77,GNFD,5.35
+2017,General Fund,0001ATT,City Attorney's Office GF,DFW International Airport Legal Counsel,PS,Personnel Services,566591,0,282348.07,282348.07,GNFD,5.25
+2017,General Fund,0001DPD,Police Department GF,Police Special Operations,RE,Reimbursements,-12232931,0,-205157.56,-205157.56,GNFD,1.31
+2017,General Fund,0001CTJ,Judiciary GF,Municipal Judges/Cases Docketed,QM,Supplies & Materials,14975,0,967.58,967.58,GNFD,1.18
+2017,General Fund,0001ATT,City Attorney's Office GF,Police Legal Liaison,QM,Supplies & Materials,1900,0,1772.74,1772.74,GNFD,1.28
+2016,General Fund,0001BMS,Office of Financial Services GF,Citywide Capital and Operating Budget Dev and Monitoring,QM,Supplies & Materials,4371,0,388.98,388.98,GNFD,5.19
+2017,General Fund,0001ATT,City Attorney's Office GF,Community Prosecution & Community Courts,PS,Personnel Services,1657897,0,777946.98,777946.98,GNFD,3.07
+2017,General Fund,0001CTS,Court and Detention Services GF,Adjudication Office,PS,Personnel Services,431079,0,177668.06,177668.06,GNFD,1.01
+2017,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Capital Funding,TR,Transfers Out,266872977,0,104603221.01,104603221.01,EFOP,2.52
+2017,General Fund,0001EAD,Mgmt Services - Ethics and Diversity,Ethics and Diversity,PS,Personnel Services,421764,0,115023.67,115023.67,GNFD,5.3
+2017,General Fund,0001CVS,Civil Service GF,Civil Service Board Administration/Employee Appeals Process,QM,Supplies & Materials,5397,0,10788.60,10788.60,GNFD,5.2
+2016,General Fund,0001ATT,City Attorney's Office GF,Community Prosecution & Community Courts,QV,Contractual & Other Services,241769,0,192080.77,192080.77,GNFD,3.07
+2017,General Fund,0001DPD,Police Department GF,Police Criminal Investigations,PS,Personnel Services,56361041,0,26677190.35,26677190.35,GNFD,1.23
+2017,General Fund,0001CMO,City Manager's Office GF,City Administration,PS,Personnel Services,2436946,0,1505172.47,1505172.47,GNFD,5.14
+2017,Internal Service Fund,0198DSV,Information Technology DSV,Strategic Technology Management,PS,Personnel Services,7540887,0,2482048.22,2482048.22,INSV,5.Q
+2016,General Fund,0001PKR,Park and Recreation GF,Park Land Maintained,QM,Supplies & Materials,5911083,0,5317359.72,5317359.72,GNFD,4.09
+2017,General Fund,0001DFD,Dallas Fire Rescue GF,Fire Training and Recruitment,PS,Personnel Services,11358307,0,3188872.12,3188872.12,GNFD,1.1200000000000001
+2017,General Fund,0001ECO,Economic Development GF,Department Support,PS,Personnel Services,916461,0,372703.29,372703.29,GNFD,9.99
+2016,General Fund,0001EBS,Building Services GF,Department Support,RE,Reimbursements,-612741,0,-625180,-625180,GNFD,9.99
+2016,General Fund,0001PBW,Public Works GF,Ambient Air Monitoring,PS,Personnel Services,829880,0,885164.73,885164.73,GNFD,3.02
+2017,Other Operating Fund,0278PER,Employee Benefits Administration,HR Benefits Administration Services,PS,Personnel Services,618375,0,297387.37,297387.37,OTHO,5.J
+2017,General Fund,0001CTS,Court and Detention Services GF,Adjudication Office,QM,Supplies & Materials,9550,0,3397.58,3397.58,GNFD,1.01
+2017,General Fund,0001EBS,Building Services GF,Department Support,PS,Personnel Services,725578,0,408771.44,408771.44,GNFD,9.99
+2017,Internal Service Fund,0198DSV,Information Technology DSV,Business Technology Services,RC,Capital Outlay,0,0,67000,67000,INSV,5.C
+2017,General Fund,0001DFD,Dallas Fire Rescue GF,Fire and Rescue Emergency Response,PS,Personnel Services,176666599,0,79301172.62,79301172.62,GNFD,1.0900000000000001
+2017,General Fund,0001PER,Human Resources GF,HRIS and HR Payroll Services,PS,Personnel Services,1208438,0,498416.75,498416.75,GNFD,5.38
+2017,General Fund,0001CVS,Civil Service GF,Civil Service Board Administration/Employee Appeals Process,PS,Personnel Services,370352,0,122433.76,122433.76,GNFD,5.2
+2017,Internal Service Fund,0196EBS,Equipment Services EBS,City Fleet Asset Management,PS,Personnel Services,1286645,0,443326.40,443326.40,INSV,5.D
+2017,General Fund,0001DFD,Dallas Fire Rescue GF,Fire Investigation & Explosive Ordnance Disposal,RE,Reimbursements,0,0,-734.42,-734.42,GNFD,1.1100000000000001
+2017,General Fund,0001PNV,Planning and Urban Design GF,Neighborhood Vitality,PS,Personnel Services,865379,0,354178.65,354178.65,GNFD,2.2799999999999998
+2017,General Fund,0001PER,Human Resources GF,Human Resource Consulting,PS,Personnel Services,2068013,0,911339.11,911339.11,GNFD,5.39
+2017,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Utilities Capital Program Management,RE,Reimbursements,-250000,0,-242050,-242050,EFOP,2.54
+2017,General Fund,0001CCS,Code Compliance GF,Neighborhood Nuisance Abatement,PS,Personnel Services,4337124,0,1693683.50,1693683.50,GNFD,3.18
+2017,General Fund,0001ICT,Mgmt Services - Internal Control Task Force,Internal Control Task Force,QV,Contractual & Other Services,15780,0,5544.52,5544.52,GNFD,5.42
+2017,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Zoning & Board of Adjustment,QM,Supplies & Materials,33602,0,15669.07,15669.07,EFOP,2.5499999999999998
+2017,General Fund,0001PKR,Park and Recreation GF,Park Land Maintained,RE,Reimbursements,-3553666,0,-1172639.44,-1172639.44,GNFD,4.09
+2017,General Fund,0001CCO,City Controller's Office GF,Department Support,PS,Personnel Services,180068,0,149516,149516,GNFD,9.99
+2017,General Fund,0001PKR,Park and Recreation GF,Aquatic Services,PS,Personnel Services,1826313,0,453282.87,453282.87,GNFD,4.01
+2017,Internal Service Fund,0198DSV,Information Technology DSV,City GIS Services,PS,Personnel Services,856227,0,410632.38,410632.38,INSV,5.18
+2017,General Fund,0001CTJ,Judiciary GF,Municipal Judges/Cases Docketed,PS,Personnel Services,1863626,0,988272.70,988272.70,GNFD,1.18
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Capital Funding,TR,Transfers Out,268152526,0,247560120.24,247560120.24,EFOP,2.52
+2017,Internal Service Fund,0199POM,Express Business Center POM,Disposal of Surplus and Police Unclaimed Property,PS,Personnel Services,199813,0,57695.96,57695.96,INSV,5.G
+2017,General Fund,0001DFD,Dallas Fire Rescue GF,Fire Inspection for New Construction,PS,Personnel Services,1546972,0,913315.28,913315.28,GNFD,2.1800000000000002
+2017,Enterprise Operating Fund,0080CCT,Convention Center CCT,Office of Special Events,PS,Personnel Services,492467,0,107672.01,107672.01,EFOP,2.29
+2017,General Fund,0001CCO,City Controller's Office GF,Cash and Debt Management,PS,Personnel Services,549057,0,220800.70,220800.70,GNFD,5.12
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Fire-Rescue Equipment Maintenance and Supply,QV,Contractual & Other Services,1825525,0,1360028.78,1360028.78,GNFD,1.1299999999999999
+2017,Internal Service Fund,0198DSV,Information Technology DSV,Internal Radio Communication,QV,Contractual & Other Services,0,0,0,0,INSV,5.M
+2017,General Fund,0001ATT,City Attorney's Office GF,"Environ Enforcement, Compliance, and Support (Legal Service)",QM,Supplies & Materials,2251,0,1772.74,1772.74,GNFD,3.13
+2017,Other Operating Fund,0286PER,Wellness Program Fund,Wellness Program,PS,Personnel Services,321020,0,72155.91,72155.91,OTHO,5.R
+2017,General Fund,0001AGE,Mgmt Services - Council Agenda,City Agenda Process,QV,Contractual & Other Services,10317,0,5079.34,5079.34,GNFD,5.15
+2017,General Fund,0001DPD,Police Department GF,Police Investigations of Narcotics Related Crimes,RE,Reimbursements,-276000,0,-181431.79,-181431.79,GNFD,1.27
+2017,General Fund,0001EBS,Building Services GF,Capital Facilities,PS,Personnel Services,1789870,0,737851.10,737851.10,GNFD,2.0699999999999998
+2017,General Fund,0001DPD,Police Department GF,Police Intelligence,PS,Personnel Services,7895834,0,3878897.41,3878897.41,GNFD,1.25
+2017,General Fund,0001PKR,Park and Recreation GF,"Planning, Design, Construction & EMS and Environ Compliance",QM,Supplies & Materials,18897,0,8470.05,8470.05,GNFD,4.0999999999999996
+2017,General Fund,0001CVS,Civil Service GF,Fire Applicant - Physical Abilities Testing,QM,Supplies & Materials,125,0,133.66,133.66,GNFD,5.33
+2017,General Fund,0001TWM,Trinity Watershed Management GF,Trinity River Corridor Operations,PS,Personnel Services,919243,0,170344.27,170344.27,GNFD,2.4900000000000002
+2017,General Fund,0001DEV,Sustainable Dev and Construction GF,Real Estate and Relocation,QM,Supplies & Materials,15782,0,13068.06,13068.06,GNFD,2.35
+2017,General Fund,0001DPD,Police Department GF,Police Recruiting and Personnel Service,PS,Personnel Services,6749532,0,3383778.79,3383778.79,GNFD,1.3
+2017,General Fund,0001ATT,City Attorney's Office GF,Code Litigation,QM,Supplies & Materials,2650,0,19656.59,19656.59,GNFD,3.06
+2017,General Fund,0001SEC,City Secretary's Office GF,Archives,PS,Personnel Services,163789,0,79043.62,79043.62,GNFD,5.07
+2017,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Construction Plan Review and Permitting,PS,Personnel Services,7838250,0,3380242.83,3380242.83,EFOP,2.08
+2017,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Residential Refuse Collection,PS,Personnel Services,14615353,0,7174112.55,7174112.55,EFOP,3.2
+2017,General Fund,0001OCA,Office of Cultural Affairs GF,City-Owned Cultural Venues,RE,Reimbursements,0,0,-1868,-1868,GNFD,4.0199999999999996
+2017,Internal Service Fund,0196EBS,Equipment Services EBS,City Fleet Paint and Body Shop Coordination,PS,Personnel Services,116829,0,55658.59,55658.59,INSV,5.F
+2017,Internal Service Fund,0198DSV,Information Technology DSV,NONE,RC,Capital Outlay,0,0,0,0,INSV,
+2016,General Fund,0001STS,Street Services GF,Street Repair Division - Concrete,RC,Capital Outlay,0,0,83620.54,83620.54,GNFD,2.44
+2016,General Fund,0001DPD,Police Department GF,Police Intelligence,RE,Reimbursements,-86500,0,-175572.40,-175572.40,GNFD,1.25
+2017,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Capital Funding,WB,Debt Svc-Interest On Bonds,32700000,0,14367539.21,14367539.21,EFOP,2.52
+2017,General Fund,0001ATT,City Attorney's Office GF,General Counsel,PS,Personnel Services,4115157,0,1725322.15,1725322.15,GNFD,5.34
+2017,General Fund,0001SEC,City Secretary's Office GF,Records Management,QV,Contractual & Other Services,315837,0,95032.67,95032.67,GNFD,5.5
+2017,General Fund,0001IGS,Mgmt Services - Intergovernmental Services,Intergovernmental Services,PS,Personnel Services,764219,0,354292.37,354292.37,GNFD,5.41
+2017,General Fund,0001STS,Street Services GF,Department Support,PS,Personnel Services,1713852,0,1022921.35,1022921.35,GNFD,9.99
+2017,General Fund,0001OEM,Mgmt Services - Emergency Management,Emergency Management Operations,PS,Personnel Services,599698,0,298899.98,298899.98,GNFD,1.07
+2017,General Fund,0001EBS,Building Services GF,"City Facility Operation, Maintenance and Repair",RE,Reimbursements,-1715375,0,-703835.78,-703835.78,GNFD,5.17
+2017,General Fund,0001STS,Street Services GF,Street Cut and Right-of-Way Management (Cut Control),RE,Reimbursements,-438541,0,-93658.24,-93658.24,GNFD,2.41
+2017,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,GIS Mapping for Private Development,QV,Contractual & Other Services,165805,0,5992.83,5992.83,EFOP,2.2200000000000002
+2017,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Private Development Records and Archival Library,PS,Personnel Services,837105,0,381813.43,381813.43,EFOP,2.33
+2017,General Fund,0001CCO,City Controller's Office GF,Cash and Debt Management,QV,Contractual & Other Services,93814,0,29222.06,29222.06,GNFD,5.12
+2017,General Fund,0001ADM,Mgmt Services - Admin,311 Customer Service Center,PS,Personnel Services,297479,0,129409.37,129409.37,GNFD,5.01
+2017,General Fund,0001STS,Street Services GF,Traffic Safety and Congestion Management,PS,Personnel Services,2799394,0,1372680.74,1372680.74,GNFD,2.48
+2016,General Fund,0001AGE,Mgmt Services - Council Agenda,City Agenda Process,QM,Supplies & Materials,1000,0,399.8,399.8,GNFD,5.15
+2017,General Fund,0001ECO,Economic Development GF,Area Redevelopment,PS,Personnel Services,694248,0,344381.67,344381.67,GNFD,2.0099999999999998
+2017,General Fund,0001OEM,Mgmt Services - Emergency Management,Emergency Management Operations,QM,Supplies & Materials,39417,0,19136.70,19136.70,GNFD,1.07
+2016,General Fund,0001ATT,City Attorney's Office GF,Municipal Prosecution,QV,Contractual & Other Services,334163,0,268514.37,268514.37,GNFD,1.19
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Department Support,QV,Contractual & Other Services,121512,0,101911.55,101911.55,GNFD,9.99
+2017,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Private Development Survey,PS,Personnel Services,555270,0,221409.10,221409.10,EFOP,2.34
+2017,Internal Service Fund,0196EBS,Equipment Services EBS,City Fleet Paint and Body Shop Coordination,QM,Supplies & Materials,1282,0,1221.48,1221.48,INSV,5.F
+2017,General Fund,0001STS,Street Services GF,Land Surveying Services,QM,Supplies & Materials,14560,0,5681.26,5681.26,GNFD,5.43
+2017,General Fund,0001DEV,Sustainable Dev and Construction GF,Historic Preservation,PS,Personnel Services,695389,0,324155.25,324155.25,GNFD,2.23
+2017,General Fund,0001AGE,Mgmt Services - Council Agenda,City Agenda Process,PS,Personnel Services,200848,0,139610.46,139610.46,GNFD,5.15
+2017,Other Operating Fund,0195ORM,Office of Risk Management,Risk Management Services,PS,Personnel Services,2371570,0,1170729.84,1170729.84,OTHO,5.P
+2017,General Fund,0001EBS,Building Services GF,Security Service for City Facilities,RE,Reimbursements,-1162618,0,-527020.97,-527020.97,GNFD,1.32
+2016,Enterprise Operating Fund,0080CCT,Convention Center CCT,Office of Special Events,RE,Reimbursements,0,0,-250,-250,EFOP,2.29
+2016,General Fund,0001CMO,City Manager's Office GF,City Administration,QV,Contractual & Other Services,172767,0,156780.12,156780.12,GNFD,5.14
+2016,General Fund,0001MCC,Mayor and City Council GF,Administrative Support for the Mayor and City Council,QV,Contractual & Other Services,650471,0,501003.39,501003.39,GNFD,5.03
+2017,General Fund,0001SEC,City Secretary's Office GF,Customer Service,PS,Personnel Services,168193,0,87872.31,87872.31,GNFD,5.23
+2017,General Fund,0001STS,Street Services GF,Street Repair Division - Asphalt,PS,Personnel Services,6048166,0,3040752.77,3040752.77,GNFD,2.4300000000000002
+2017,General Fund,0001CRO,Mgmt Services - Resiliency Office,Resiliency Office,PS,Personnel Services,318478,0,154122.86,154122.86,GNFD,2.37
+2017,Enterprise Operating Fund,0130AVI,Airport Operations AVI,Capital Construction and Debt Service,QV,Contractual & Other Services,1618576,0,301142.50,301142.50,EFOP,2.06
+2017,General Fund,0001PKR,Park and Recreation GF,Recreation Services,PS,Personnel Services,12940878,0,6129814.38,6129814.38,GNFD,4.12
+2017,General Fund,0001POM,Business Development & Procurement GF,Business Inclusion & Development Compliance Monitoring,PS,Personnel Services,432065,0,201432.22,201432.22,GNFD,5.1100000000000003
+2017,General Fund,0001SEC,City Secretary's Office GF,Boards and Commissions Support,QM,Supplies & Materials,1700,0,434.53,434.53,GNFD,5.0999999999999996
+2017,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Animal Remains Collection,QV,Contractual & Other Services,123027,0,48101.57,48101.57,EFOP,3.03
+2016,General Fund,0001ECO,Economic Development GF,Area Redevelopment,QV,Contractual & Other Services,248487,0,234156.61,234156.61,GNFD,2.0099999999999998
+2017,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Express Plan Review,PS,Personnel Services,1834591,0,747595.16,747595.16,EFOP,2.16
+2017,General Fund,0001DFD,Dallas Fire Rescue GF,Fire Dispatch and Communications,PS,Personnel Services,8323282,0,3654018.99,3654018.99,GNFD,1.1000000000000001
+2017,General Fund,0001STS,Street Services GF,Land Surveying Services,RE,Reimbursements,-715730,0,-132003.41,-132003.41,GNFD,5.43
+2017,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Brush/Bulk Waste Removal Services,PS,Personnel Services,7480596,0,3845165.80,3845165.80,EFOP,3.04
+2017,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Private Development Records and Archival Library,QM,Supplies & Materials,8159,0,5287.16,5287.16,EFOP,2.33
+2017,General Fund,0001LIB,Library GF,"Literacy Initiatives, Education & Community Engagement",QV,Contractual & Other Services,700,0,3415.58,3415.58,GNFD,4.08
+2017,General Fund,0001EBS,Building Services GF,Bullington Truck Terminal and Thanksgiving Square,PS,Personnel Services,46445,0,23099.36,23099.36,GNFD,2.0299999999999998
+2017,Other Operating Fund,0191DSV,9-1-1 System Operations,9-1-1 Technology/Education Services,PS,Personnel Services,256993,0,98534.52,98534.52,OTHO,5.A
+2017,General Fund,0001HOU,Housing GF,Community/Senior Services,PS,Personnel Services,1551548,0,687751.84,687751.84,GNFD,3.08
+2017,General Fund,0001OEQ,Mgmt Services - Environmental Quaity,Environmental Quality,RE,Reimbursements,-1878701,0,-557042.43,-557042.43,GNFD,3.14
+2017,General Fund,0001CTJ,Judiciary GF,Court Security,PS,Personnel Services,968426,0,526848.87,526848.87,GNFD,1.05
+2017,Internal Service Fund,0199POM,Express Business Center POM,Business Services,PS,Personnel Services,444682,0,221446.59,221446.59,INSV,5.B
+2017,General Fund,0001ATT,City Attorney's Office GF,Litigation,PS,Personnel Services,4515171,0,2212065.47,2212065.47,GNFD,5.45
+2017,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Capital Funding,QV,Contractual & Other Services,7181606,0,83968.38,83968.38,EFOP,2.52
+2017,General Fund,0001CCS,Code Compliance GF,Consumer Health,PS,Personnel Services,2537303,0,1071415.15,1071415.15,GNFD,3.1
+2017,General Fund,0001ATT,City Attorney's Office GF,"Environ Enforcement, Compliance, and Support (Legal Service)",PS,Personnel Services,74295,0,35673.07,35673.07,GNFD,3.13
+2017,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Wastewater Treatment,TR,Transfers Out,1253522,0,0,0,EFOP,3.25
+2017,General Fund,0001DPD,Police Department GF,Juvenile Case Managers/First Offender Program,PS,Personnel Services,481945,0,212438.64,212438.64,GNFD,1.1499999999999999
+2017,General Fund,0001CCO,City Controller's Office GF,Deferred Compensation,QM,Supplies & Materials,2000,0,109.68,109.68,GNFD,5.24
+2017,General Fund,0001DPD,Police Department GF,Department Support,PS,Personnel Services,9646261,0,3605311.89,3605311.89,GNFD,9.99
+2017,General Fund,0001PER,Human Resources GF,Department Support,QV,Contractual & Other Services,0,0,411.3,411.3,GNFD,9.99
+2017,General Fund,0001CCS,Code Compliance GF,Dallas Animal Services,PS,Personnel Services,8667017,0,3688585.73,3688585.73,GNFD,3.12
+2017,Enterprise Operating Fund,0061SDM,Storm Drainage Mgmt Operations,Department Support,PS,Personnel Services,0,0,882773.41,882773.41,EFOP,9.99
+2017,General Fund,0001OCA,Office of Cultural Affairs GF,Department Support,PS,Personnel Services,398003,0,156058.08,156058.08,GNFD,9.99
+2016,General Fund,0001DPD,Police Department GF,Police Intelligence,QV,Contractual & Other Services,395042,0,453569.80,453569.80,GNFD,1.25
+2017,General Fund,0001ICT,Mgmt Services - Internal Control Task Force,Internal Control Task Force,QM,Supplies & Materials,1500,0,421.51,421.51,GNFD,5.42
+2016,General Fund,0001OFS,Non-Departmental,Non-Departmental,QV,Contractual & Other Services,14679596,0,15059099.91,15059099.91,GNFD,5.46
+2017,General Fund,0001ECO,Economic Development GF,Small Business Initiatives,PS,Personnel Services,645707,0,340149.91,340149.91,GNFD,2.4
+2016,General Fund,0001DPD,Police Department GF,Police Investigation of Vice Related Crimes,QV,Contractual & Other Services,202584,0,164095.53,164095.53,GNFD,1.26
+2017,Internal Service Fund,0198DSV,Information Technology DSV,Public Safety Technology Support,PS,Personnel Services,2081237,0,808368.37,808368.37,INSV,5.O
+2017,General Fund,0001DFD,Dallas Fire Rescue GF,Inspection and Life Safety Education,RE,Reimbursements,0,0,-218864.50,-218864.50,GNFD,1.1399999999999999
+2017,General Fund,0001ECO,Economic Development GF,Area Redevelopment,QV,Contractual & Other Services,252378,0,14840.05,14840.05,GNFD,2.0099999999999998
+2017,General Fund,0001DFD,Dallas Fire Rescue GF,Department Support,PS,Personnel Services,3820743,0,1165242.45,1165242.45,GNFD,9.99
+2017,General Fund,0001DPD,Police Department GF,Police Administrative Support,RE,Reimbursements,-325051,0,-68316.22,-68316.22,GNFD,1.21
+2017,Internal Service Fund,0196EBS,Equipment Services EBS,Department Support,PS,Personnel Services,1652299,0,794996.53,794996.53,INSV,9.99
+2017,General Fund,0001STS,Street Services GF,Capital and Implementation Program,RE,Reimbursements,-5556811,0,-445831.60,-445831.60,GNFD,2.0499999999999998
+2016,General Fund,0001OCA,Office of Cultural Affairs GF,Cultural Services Contracts,QV,Contractual & Other Services,5254730,0,5438437.10,5438437.10,GNFD,4.03
+2017,General Fund,0001OEQ,Mgmt Services - Environmental Quaity,Air Quality Compliance,PS,Personnel Services,660902,0,294663.40,294663.40,GNFD,3.01
+2017,General Fund,0001PKR,Park and Recreation GF,Golf and Tennis Centers,RC,Capital Outlay,0,0,38337.60,38337.60,GNFD,4.04
+2017,General Fund,0001BMS,Office of Financial Services GF,Citywide Capital and Operating Budget Dev and Monitoring,QV,Contractual & Other Services,320223,0,244606.60,244606.60,GNFD,5.19
+2017,General Fund,0001PKR,Park and Recreation GF,Golf and Tennis Centers,PS,Personnel Services,3008137,0,1395358.35,1395358.35,GNFD,4.04
+2017,General Fund,0001STS,Street Services GF,Traffic Operations Maintenance,PS,Personnel Services,4033088,0,1621416.68,1621416.68,GNFD,2.4700000000000002
+2017,General Fund,0001OCA,Office of Cultural Affairs GF,Cultural Services Contracts,PS,Personnel Services,423799,0,177374.62,177374.62,GNFD,4.03
+2017,General Fund,0001STS,Street Services GF,Service Maintenance Areas,RE,Reimbursements,-3000975,0,-3008.88,-3008.88,GNFD,2.39
+2017,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Engineering & Inspection Review for Private Development,PS,Personnel Services,2516815,0,1140506.84,1140506.84,EFOP,2.15
+2017,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,GIS Mapping for Private Development,PS,Personnel Services,779880,0,270516.98,270516.98,EFOP,2.2200000000000002
+2017,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Department Support,QV,Contractual & Other Services,0,0,142133.60,142133.60,EFOP,9.99
+2017,General Fund,0001LIB,Library GF,"Literacy Initiatives, Education & Community Engagement",PS,Personnel Services,750161,0,373102.01,373102.01,GNFD,4.08
+2017,General Fund,0001PER,Human Resources GF,Compensation Analysis / Classification,QV,Contractual & Other Services,145024,0,12722.53,12722.53,GNFD,5.21
+2017,General Fund,0001STS,Street Services GF,Traffic Operations Maintenance,RE,Reimbursements,-784449,0,-250526.44,-250526.44,GNFD,2.4700000000000002
+2017,General Fund,0001PKR,Park and Recreation GF,Leisure Venue Management,QV,Contractual & Other Services,17232471,0,11525877.65,11525877.65,GNFD,4.05
+2017,Other Operating Fund,0286PER,Wellness Program Fund,Wellness Program,TR,Transfers Out,14058,0,0,0,OTHO,5.R
+2017,General Fund,0001STS,Street Services GF,Street Cut and Right-of-Way Management (Cut Control),QM,Supplies & Materials,14028,0,3661.77,3661.77,GNFD,2.41
+2017,Internal Service Fund,0198DSV,Information Technology DSV,Strategic Technology Management,RE,Reimbursements,-2457625,0,-832358.51,-832358.51,INSV,5.Q
+2017,General Fund,0001DPD,Police Department GF,Police Field Patrol,RE,Reimbursements,-350000,0,-9068.27,-9068.27,GNFD,1.24
+2017,General Fund,0001DPD,Police Department GF,Police Criminal Investigations,RE,Reimbursements,-236000,0,-118384.30,-118384.30,GNFD,1.23
+2017,General Fund,0001STS,Street Services GF,Traffic Safety and Congestion Management,RE,Reimbursements,-40500,0,-15313.06,-15313.06,GNFD,2.48
+2017,General Fund,0001BAC,Mgmt Services - Boards and Commissions,Boards and Commissions Liaison,PS,Personnel Services,74200,0,36440.36,36440.36,GNFD,5.09
+2017,General Fund,0001STS,Street Services GF,Street Repair Division - Asphalt,RC,Capital Outlay,0,0,42030,42030,GNFD,2.4300000000000002
+2017,General Fund,0001ICT,Mgmt Services - Internal Control Task Force,Internal Control Task Force,PS,Personnel Services,342929,0,160658.06,160658.06,GNFD,5.42
+2016,General Fund,0001CCO,City Controller's Office GF,Deferred Compensation,QV,Contractual & Other Services,56850,0,29862.67,29862.67,GNFD,5.24
+2017,General Fund,0001CCO,City Controller's Office GF,Financial Reporting,PS,Personnel Services,2021051,0,764549.12,764549.12,GNFD,5.32
+2017,General Fund,0001SEC,City Secretary's Office GF,City Council Support,PS,Personnel Services,567028,0,243108.80,243108.80,GNFD,5.16
+2017,General Fund,0001PKR,Park and Recreation GF,Park Land Maintained,PS,Personnel Services,17613205,0,8930647.25,8930647.25,GNFD,4.09
+2017,General Fund,0001SEC,City Secretary's Office GF,Records Management,QM,Supplies & Materials,1200,0,562.63,562.63,GNFD,5.5
+2017,General Fund,0001HOU,Housing GF,Home Ownership/Development,RE,Reimbursements,-633619,0,-35432.91,-35432.91,GNFD,2.2400000000000002
+2017,General Fund,0001PER,Human Resources GF,Compensation Analysis / Classification,QM,Supplies & Materials,1231,0,290.63,290.63,GNFD,5.21
+2016,General Fund,0001AUD,City Auditor's Office GF,"Audits, Attestations and Investigations",QV,Contractual & Other Services,197232,0,175566.45,175566.45,GNFD,5.08
+2017,Enterprise Operating Fund,0080CCT,Convention Center CCT,Convention Center Debt Service Payment,TR,Transfers Out,22524413,0,12600000,12600000,EFOP,2.09
+2017,General Fund,0001DPD,Police Department GF,Police Intelligence,RE,Reimbursements,-86500,0,-77455.64,-77455.64,GNFD,1.25
+2017,General Fund,0001LIB,Library GF,Library Materials & Collection Management,PS,Personnel Services,1153420,0,508178.47,508178.47,GNFD,4.0599999999999996
+2017,General Fund,0001PKR,Park and Recreation GF,"Planning, Design, Construction & EMS and Environ Compliance",PS,Personnel Services,2674331,0,1321500.86,1321500.86,GNFD,4.0999999999999996
+2017,General Fund,0001DPD,Police Department GF,Police Academy and In-service Training,PS,Personnel Services,20444087,0,6656862.65,6656862.65,GNFD,1.2
+2017,General Fund,0001CVS,Civil Service GF,Applicant Processing - Civilian,PS,Personnel Services,730752,0,344853.72,344853.72,GNFD,5.05
+2017,General Fund,0001DEV,Sustainable Dev and Construction GF,Real Estate and Relocation,PS,Personnel Services,2218916,0,1131470.41,1131470.41,GNFD,2.35
+2017,General Fund,0001OCA,Office of Cultural Affairs GF,Public Art for Dallas,PS,Personnel Services,287008,0,140331.20,140331.20,GNFD,4.1100000000000003
+2016,Enterprise Operating Fund,0080CCT,Convention Center CCT,Office of Special Events,QV,Contractual & Other Services,35684,0,21093.13,21093.13,EFOP,2.29
+2017,General Fund,0001PNV,Planning and Urban Design GF,Department Support,QV,Contractual & Other Services,30620,0,24680.81,24680.81,GNFD,9.99
+2017,General Fund,0001SEC,City Secretary's Office GF,Boards and Commissions Support,PS,Personnel Services,267567,0,132845.50,132845.50,GNFD,5.0999999999999996
+2017,General Fund,0001DPD,Police Department GF,Police Investigation of Vice Related Crimes,QM,Supplies & Materials,74154,0,14234.09,14234.09,GNFD,1.26
+2017,General Fund,0001DPD,Police Department GF,Police Special Operations,PS,Personnel Services,32823667,0,15931664.12,15931664.12,GNFD,1.31
+2017,General Fund,0001DEV,Sustainable Dev and Construction GF,Authorized Hearings,PS,Personnel Services,314815,0,158439.08,158439.08,GNFD,2.02
+2017,General Fund,0001CVS,Civil Service GF,Analysis/Development and Validation,PS,Personnel Services,590508,0,221917.15,221917.15,GNFD,5.04
+2017,General Fund,0001OCA,Office of Cultural Affairs GF,Public Art for Dallas,RE,Reimbursements,-208739,0,-19468.98,-19468.98,GNFD,4.1100000000000003
+2017,General Fund,0001IGS,Mgmt Services - Intergovernmental Services,Intergovernmental Services,QM,Supplies & Materials,6205,0,865.18,865.18,GNFD,5.41
+2016,General Fund,0001DPD,Police Department GF,Police Field Patrol,QM,Supplies & Materials,3844842,0,3668977.54,3668977.54,GNFD,1.24
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Fire Training and Recruitment,QV,Contractual & Other Services,1436597,0,885166.56,885166.56,GNFD,1.1200000000000001
+2017,General Fund,0001PER,Human Resources GF,HRIS and HR Payroll Services,QM,Supplies & Materials,7098,0,1283.07,1283.07,GNFD,5.38
+2017,General Fund,0001HOU,Housing GF,Community/Senior Services,RE,Reimbursements,-50000,0,-9051.46,-9051.46,GNFD,3.08
+2017,General Fund,0001FHO,Mgmt Services - Fair Housing,Fair Housing and Human Rights Compliance,PS,Personnel Services,132500,0,65277.52,65277.52,GNFD,5.31
+2017,General Fund,0001STS,Street Services GF,Interagency and Transportation Administration,RE,Reimbursements,-772450,0,-46795.31,-46795.31,GNFD,2.2599999999999998
+2017,General Fund,0001DPD,Police Department GF,Police Investigation of Vice Related Crimes,PS,Personnel Services,3943181,0,1845256.58,1845256.58,GNFD,1.26
+2017,Enterprise Operating Fund,0061SDM,Storm Drainage Mgmt Operations,Stormwater Regulations & Enforcement,PS,Personnel Services,4557065,0,1947686.09,1947686.09,EFOP,3.22
+2017,Enterprise Operating Fund,0100DWU,Water Utilities DWU,"Water Planning, Financial and Rate Services",PS,Personnel Services,1851821,0,896500.33,896500.33,EFOP,5.54
+2017,General Fund,0001DPD,Police Department GF,Police Field Patrol,PS,Personnel Services,243251881,0,108416926.03,108416926.03,GNFD,1.24
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Fire and Rescue Emergency Response,QV,Contractual & Other Services,2702444,0,2267735.09,2267735.09,GNFD,1.0900000000000001
+2017,General Fund,0001CCO,City Controller's Office GF,Deferred Compensation,PS,Personnel Services,170993,0,83110.19,83110.19,GNFD,5.24
+2017,General Fund,0001CCS,Code Compliance GF,Neighborhood Code Compliance Services,RE,Reimbursements,-1215858,0,-308549.59,-308549.59,GNFD,3.17
+2017,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Vital Statistics,PS,Personnel Services,628700,0,268210.31,268210.31,EFOP,5.53
+2017,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Animal Remains Collection,PS,Personnel Services,464895,0,228499.15,228499.15,EFOP,3.03
+2017,General Fund,0001BMS,Office of Financial Services GF,Citywide Capital and Operating Budget Dev and Monitoring,PS,Personnel Services,891464,0,314825.20,314825.20,GNFD,5.19
+2016,General Fund,0001CRO,Mgmt Services - Resiliency Office,Resiliency Office,QV,Contractual & Other Services,0,0,272.56,272.56,GNFD,2.37
+2017,General Fund,0001STS,Street Services GF,Service Maintenance Areas,PS,Personnel Services,11230497,0,4850602.98,4850602.98,GNFD,2.39
+2017,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,City Facility Services,PS,Personnel Services,92886,0,46200.18,46200.18,EFOP,3.05
+2017,General Fund,0001CCO,City Controller's Office GF,Payroll,QM,Supplies & Materials,4575,0,2527.47,2527.47,GNFD,5.47
+2016,General Fund,0001CCS,Code Compliance GF,Consumer Health,RC,Capital Outlay,0,0,13190,13190,GNFD,3.1
+2016,Enterprise Operating Fund,0080CCT,Convention Center CCT,Union Station,QV,Contractual & Other Services,486364,0,431191.58,431191.58,EFOP,2.5
+2017,General Fund,0001STS,Street Services GF,Street Repair Division - Concrete,RE,Reimbursements,-1975063,0,0,0,GNFD,2.44
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Brush/Bulk Waste Removal Services,PS,Personnel Services,7046835,0,7941343.26,7941343.26,EFOP,3.04
+2017,General Fund,0001PNV,Planning and Urban Design GF,Department Support,RE,Reimbursements,-707829,0,0,0,GNFD,9.99
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Inspection and Life Safety Education,PS,Personnel Services,8313679,0,8208987.62,8208987.62,GNFD,1.1399999999999999
+2017,General Fund,0001DEV,Sustainable Dev and Construction GF,Authorized Hearings,QM,Supplies & Materials,10351,0,579.70000000000005,579.70000000000005,GNFD,2.02
+2017,General Fund,0001MCC,Mayor and City Council GF,Administrative Support for the Mayor and City Council,PS,Personnel Services,3742861,0,1967299.67,1967299.67,GNFD,5.03
+2017,General Fund,0001EBS,Building Services GF,Department Support,QM,Supplies & Materials,800,0,21.47,21.47,GNFD,9.99
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Department Support,RE,Reimbursements,-360880,0,-147702,-147702,EFOP,9.99
+2017,General Fund,0001PKR,Park and Recreation GF,Department Support,PS,Personnel Services,2780538,0,1657797.51,1657797.51,GNFD,9.99
+2017,General Fund,0001CCO,City Controller's Office GF,Payroll,PS,Personnel Services,560605,0,203069.08,203069.08,GNFD,5.47
+2017,General Fund,0001PER,Human Resources GF,Department Support,PS,Personnel Services,459243,0,217296.64,217296.64,GNFD,9.99
+2017,General Fund,0001HOU,Housing GF,Home Ownership/Development,PS,Personnel Services,1942703,0,930741.73,930741.73,GNFD,2.2400000000000002
+2017,General Fund,0001ECO,Economic Development GF,Economic Development Major Projects & Other Programs,PS,Personnel Services,402888,0,130497.15,130497.15,GNFD,2.13
+2017,General Fund,0001CVS,Civil Service GF,Applicant Processing - Uniform,PS,Personnel Services,631056,0,242780.92,242780.92,GNFD,5.0599999999999996
+2017,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Department Support,PS,Personnel Services,371449,0,128333.84,128333.84,EFOP,9.99
+2017,General Fund,0001ATT,City Attorney's Office GF,Municipal Prosecution,PS,Personnel Services,1735468,0,826210.75,826210.75,GNFD,1.19
+2016,General Fund,0001DPD,Police Department GF,Police Investigations of Narcotics Related Crimes,QV,Contractual & Other Services,665087,0,497746.84,497746.84,GNFD,1.27
+2017,General Fund,0001PKR,Park and Recreation GF,Operation & Maintenance of Fair Park,PS,Personnel Services,711846,0,1636062.59,1636062.59,GNFD,2.2999999999999998
+2017,General Fund,0001EBS,Building Services GF,Custodial Maintenance,RE,Reimbursements,-102829,0,-61302.10,-61302.10,GNFD,3.11
+2017,General Fund,0001PKR,Park and Recreation GF,"Planning, Design, Construction & EMS and Environ Compliance",QV,Contractual & Other Services,241554,0,34351.70,34351.70,GNFD,4.0999999999999996
+2017,General Fund,0001POM,Business Development & Procurement GF,Vendor Development,PS,Personnel Services,203031,0,70549.38,70549.38,GNFD,2.5099999999999998
+2017,General Fund,0001ECO,Economic Development GF,Economic Development Research and Information Services,PS,Personnel Services,444486,0,219790.69,219790.69,GNFD,2.14
+2017,General Fund,0001STL,Street Lighting,Street Lighting,PS,Personnel Services,300892,0,120478.35,120478.35,GNFD,2.42
+2017,Internal Service Fund,0199POM,Express Business Center POM,Business Services,RE,Reimbursements,-1200000,0,-670114.72,-670114.72,INSV,5.B
+2017,General Fund,0001ELE,Elections,Elections,PS,Personnel Services,91463,0,44179.80,44179.80,GNFD,5.27
+2017,General Fund,0001CTS,Court and Detention Services GF,Dallas City Marshal,PS,Personnel Services,2572337,0,1254902.76,1254902.76,GNFD,1.06
+2017,General Fund,0001DFD,Dallas Fire Rescue GF,"EMS Administration, Contracts, and Community Health",PS,Personnel Services,11619092,0,4993819.98,4993819.98,GNFD,1.08
+2017,General Fund,0001BMS,Office of Financial Services GF,Grant Administration,PS,Personnel Services,1178228,0,530738.40,530738.40,GNFD,5.36
+2017,General Fund,0001DPD,Police Department GF,Police Administrative Support,PS,Personnel Services,6942791,0,3174002.57,3174002.57,GNFD,1.21
+2017,General Fund,0001BMS,Office of Financial Services GF,Utility Management,QV,Contractual & Other Services,207661,0,43885.03,43885.03,GNFD,5.52
+2017,General Fund,0001ATT,City Attorney's Office GF,Code Litigation,PS,Personnel Services,918783,0,301116.37,301116.37,GNFD,3.06
+2017,General Fund,0001SEC,City Secretary's Office GF,Customer Service,QV,Contractual & Other Services,34366,0,1173.60,1173.60,GNFD,5.23
+2017,General Fund,0001STS,Street Services GF,Street Repair Division - Concrete,TR,Transfers Out,11700890,0,6825519.15,6825519.15,GNFD,2.44
+2017,General Fund,0001PKR,Park and Recreation GF,Recreation Services,RE,Reimbursements,-825000,0,-35930.01,-35930.01,GNFD,4.12
+2017,General Fund,0001OEQ,Mgmt Services - Environmental Quaity,Environmental Quality,QM,Supplies & Materials,71667,0,13127.70,13127.70,GNFD,3.14
+2017,Internal Service Fund,0196EBS,Equipment Services EBS,City Fleet Maintenance and Repair Services,PS,Personnel Services,12983543,0,5877514.10,5877514.10,INSV,5.E
+2016,General Fund,0001DEV,Sustainable Dev and Construction GF,Real Estate and Relocation,QV,Contractual & Other Services,153511,0,207605.30,207605.30,GNFD,2.35
+2017,General Fund,0001DEV,Sustainable Dev and Construction GF,Real Estate and Relocation,RE,Reimbursements,-2163874,0,-565883.83,-565883.83,GNFD,2.35
+2016,General Fund,0001CCS,Code Compliance GF,Dallas Animal Services,QV,Contractual & Other Services,2040349,0,2952721.84,2952721.84,GNFD,3.12
+2017,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Private Development Survey,QV,Contractual & Other Services,98566,0,2610.79,2610.79,EFOP,2.34
+2017,Enterprise Operating Fund,0130AVI,Airport Operations AVI,Dallas Love Field,PS,Personnel Services,15260267,0,6913899.13,6913899.13,EFOP,2.12
+2017,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,City Facility Services,QM,Supplies & Materials,5625,0,6050.61,6050.61,EFOP,3.05
+2017,General Fund,0001DFD,Dallas Fire Rescue GF,Fire Inspection for New Construction,QM,Supplies & Materials,20363,0,5584.69,5584.69,GNFD,2.1800000000000002
+2016,General Fund,0001OCA,Office of Cultural Affairs GF,Department Support,QV,Contractual & Other Services,337757,0,7091.84,7091.84,GNFD,9.99
+2016,General Fund,0001CCO,City Controller's Office GF,Accounts Payable,QV,Contractual & Other Services,102720,0,38762.69,38762.69,GNFD,5.0199999999999996
+2017,General Fund,0001ECO,Economic Development GF,Dallas Film Commission,PS,Personnel Services,277789,0,79909.28,79909.28,GNFD,2.11
+2017,General Fund,0001OEM,Mgmt Services - Emergency Management,Emergency Management Operations,RE,Reimbursements,-505000,0,-102019.28,-102019.28,GNFD,1.07
+2017,General Fund,0001CVS,Civil Service GF,Analysis/Development and Validation,QM,Supplies & Materials,56400,0,16669.14,16669.14,GNFD,5.04
+2017,General Fund,0001PNV,Planning and Urban Design GF,Department Support,PS,Personnel Services,659104,0,322122.01,322122.01,GNFD,9.99
+2016,General Fund,0001ECO,Economic Development GF,Department Support,QV,Contractual & Other Services,0,0,17186.05,17186.05,GNFD,9.99
+2017,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Landfill Services,PS,Personnel Services,6074277,0,2610279.91,2610279.91,EFOP,3.16
+2016,General Fund,0001CCO,City Controller's Office GF,Department Support,QM,Supplies & Materials,0,0,8.0500000000000007,8.0500000000000007,GNFD,9.99
+2017,General Fund,0001CTJ,Judiciary GF,Community Court,QV,Contractual & Other Services,550,0,0,0,GNFD,1.04
+2017,General Fund,0001OFS,Non-Departmental,Non-Departmental,TR,Transfers Out,65000,0,0,0,GNFD,5.46
+2016,Other Operating Fund,0278PER,Employee Benefits Administration,HR Benefits Administration Services,TR,Transfers Out,60009,0,30071.32,30071.32,OTHO,5.J
+2016,General Fund,0001DPD,Police Department GF,Police Field Patrol,RC,Capital Outlay,0,0,26110.57,26110.57,GNFD,1.24
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,"Water Planning, Financial and Rate Services",TR,Transfers Out,111524,0,99160.31,99160.31,EFOP,5.54
+2017,Other Operating Fund,0195ORM,Office of Risk Management,Risk Management Services,RE,Reimbursements,-374790,0,0,0,OTHO,5.P
+2017,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Wastewater Collection,RC,Capital Outlay,703000,0,0,0,EFOP,3.24
+2017,Internal Service Fund,0196EBS,Equipment Services EBS,Department Support,RE,Reimbursements,-1720320,0,0,0,INSV,9.99
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Utilities Capital Program Management,TR,Transfers Out,682010,0,633100.46,633100.46,EFOP,2.54
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Wastewater Treatment,TR,Transfers Out,1192445,0,1175431.09,1175431.09,EFOP,3.25
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Wastewater Collection,TR,Transfers Out,905057,0,875661.84,875661.84,EFOP,3.24
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Utilities Customer Account Services,TR,Transfers Out,1195446,0,1102967.78,1102967.78,EFOP,5.55
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Conservation,TR,Transfers Out,55762,0,49580.16,49580.16,EFOP,3.26
+2016,Enterprise Operating Fund,0140OCA,Municipal Radio OCA,WRR Municipal Radio Classical Music,TR,Transfers Out,84936,0,71724,71724,EFOP,4.13
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,City Fleet Maintenance and Repair Services,RC,Capital Outlay,54990,0,79002,79002,INSV,5.E
+2016,General Fund,0001OFS,Non-Departmental,Non-Departmental,QM,Supplies & Materials,50000,0,6.08,6.08,GNFD,5.46
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Production and Delivery,TR,Transfers Out,2381453,0,2329504.57,2329504.57,EFOP,2.5299999999999998
+2016,General Fund,0001SEC,City Secretary's Office GF,Archives,QM,Supplies & Materials,1150,0,729.31,729.31,GNFD,5.07
+2016,General Fund,0001STS,Street Services GF,Street Repair Division - Asphalt,RE,Reimbursements,0,0,-370.75,-370.75,GNFD,2.4300000000000002
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Vital Statistics,TR,Transfers Out,0,0,59877.58,59877.58,EFOP,5.53
+2016,Enterprise Operating Fund,0130AVI,Airport Operations AVI,Dallas Love Field,TR,Transfers Out,841970,0,818417.31,818417.31,EFOP,2.12
+2016,General Fund,0001OCA,Office of Cultural Affairs GF,Cultural Services Contracts,RE,Reimbursements,0,0,-36375,-36375,GNFD,4.03
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Construction Plan Review and Permitting,TR,Transfers Out,1241211,0,1228509.75,1228509.75,EFOP,2.08
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Animal Remains Collection,TR,Transfers Out,28488,0,28029.95,28029.95,EFOP,3.03
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,City GIS Services,TR,Transfers Out,0,0,62547.27,62547.27,EFOP,5.18
+2016,Internal Service Fund,0198DSV,Information Technology DSV,Business Technology Services,TR,Transfers Out,305843,0,296430.29,296430.29,INSV,5.C
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Utilities Capital Program Management,RE,Reimbursements,0,0,-218950,-218950,EFOP,2.54
+2016,Internal Service Fund,0198DSV,Information Technology DSV,Strategic Technology Management,TR,Transfers Out,5320781,0,363287.35,363287.35,INSV,5.Q
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,City Fleet Maintenance and Repair Services,TR,Transfers Out,807932,0,815109.89,815109.89,INSV,5.E
+2016,General Fund,0001POM,Business Development & Procurement GF,Vendor Development,QM,Supplies & Materials,225,0,1660,1660,GNFD,2.5099999999999998
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,City Fleet Paint and Body Shop Coordination,TR,Transfers Out,1683,0,1697.95,1697.95,INSV,5.F
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,Fuel Procurement and Management,TR,Transfers Out,270164,0,36324.88,36324.88,INSV,5.I
+2016,Internal Service Fund,0198DSV,Information Technology DSV,Public Safety Technology Support,TR,Transfers Out,108329,0,104995.04,104995.04,INSV,5.O
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,Department Support,TR,Transfers Out,88720,0,89508.22,89508.22,INSV,9.99
+2016,General Fund,0001SEC,City Secretary's Office GF,Records Management,QM,Supplies & Materials,1201,0,826.91,826.91,GNFD,5.5
+2016,Enterprise Operating Fund,0130AVI,Airport Operations AVI,Capital Construction and Debt Service,QV,Contractual & Other Services,2167969,0,1758840.19,1758840.19,EFOP,2.06
+2016,Other Operating Fund,0191DSV,9-1-1 System Operations,9-1-1 Technology/Education Services,QM,Supplies & Materials,218701,0,41607,41607,OTHO,5.A
+2016,Internal Service Fund,0198DSV,Information Technology DSV,Internal Telephone and Data Communication,TR,Transfers Out,34387,0,33328.70,33328.70,INSV,5.N
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,City Fleet Asset Management,TR,Transfers Out,355620,0,65649.11,65649.11,INSV,5.D
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,Environmental Services for City Fleet Operations,TR,Transfers Out,25989,0,26219.89,26219.89,INSV,5.H
+2016,General Fund,0001CTS,Court and Detention Services GF,Municipal Court Services,RC,Capital Outlay,0,0,35643,35643,GNFD,1.17
+2016,Other Operating Fund,0286PER,Wellness Program Fund,Wellness Program,TR,Transfers Out,0,0,13770.35,13770.35,OTHO,5.R
+2016,General Fund,0001DPD,Police Department GF,Police Criminal Investigations,TR,Transfers Out,158337,0,0,0,GNFD,1.23
+2016,Other Operating Fund,0195ORM,Office of Risk Management,Risk Management Services,TR,Transfers Out,129251,0,126532.23,126532.23,OTHO,5.P
+2016,General Fund,0001PKR,Park and Recreation GF,Department Support,QM,Supplies & Materials,0,0,4072.58,4072.58,GNFD,9.99
+2016,Internal Service Fund,0198DSV,Information Technology DSV,Internal Desktop Support,TR,Transfers Out,205010,0,204855.81,204855.81,INSV,5.L
+2016,Internal Service Fund,0197DSV,Radio Services DSV,Internal Radio Communication,TR,Transfers Out,147540,0,135047.60,135047.60,INSV,5.M
+2016,Other Operating Fund,0191DSV,9-1-1 System Operations,9-1-1 Technology/Education Services,TR,Transfers Out,5489,0,6078.40,6078.40,OTHO,5.A
+2016,General Fund,0001POM,Business Development & Procurement GF,Business Inclusion & Development Compliance Monitoring,QM,Supplies & Materials,32542,0,31370.50,31370.50,GNFD,5.1100000000000003
+2016,General Fund,0001PKR,Park and Recreation GF,Park Land Maintained,RC,Capital Outlay,300000,0,613600.03,613600.03,GNFD,4.09
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Engineering & Inspection Review for Private Development,WB,Debt Svc-Interest On Bonds,0,0,4442.10,4442.10,EFOP,2.15
+2016,Enterprise Operating Fund,0130AVI,Airport Operations AVI,Dallas Love Field,WB,Debt Svc-Interest On Bonds,0,0,8119.30,8119.30,EFOP,2.12
+2016,Enterprise Operating Fund,0130AVI,Airport Operations AVI,Dallas Love Field,WA,Debt Svc-Principal,280207,0,261069.86,261069.86,EFOP,2.12
+2016,General Fund,0001OCA,Office of Cultural Affairs GF,Department Support,QM,Supplies & Materials,0,0,99.08,99.08,GNFD,9.99
+2016,General Fund,0001PBW,Public Works GF,Department Support,RE,Reimbursements,-1190494,0,-1128824.09,-1128824.09,GNFD,9.99
+2016,General Fund,0001SEC,City Secretary's Office GF,Customer Service,QM,Supplies & Materials,2181,0,1098.22,1098.22,GNFD,5.23
+2016,General Fund,0001BMS,Office of Financial Services GF,Grant Administration,QM,Supplies & Materials,17520,0,5348.42,5348.42,GNFD,5.36
+2016,Enterprise Operating Fund,0130AVI,Airport Operations AVI,Capital Construction and Debt Service,QM,Supplies & Materials,0,0,5278.72,5278.72,EFOP,2.06
+2016,General Fund,0001ATT,City Attorney's Office GF,Litigation,RE,Reimbursements,-93701,0,-114346.43,-114346.43,GNFD,5.45
+2016,General Fund,0001HOU,Housing GF,Home Ownership/Development,QM,Supplies & Materials,7105,0,682.38,682.38,GNFD,2.2400000000000002
+2016,Enterprise Operating Fund,0080CCT,Convention Center CCT,Dallas Convention Center,WA,Debt Svc-Principal,1981003,0,1981003.02,1981003.02,EFOP,2.1
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Fire Investigation & Explosive Ordnance Disposal,RE,Reimbursements,0,0,-1039.40,-1039.40,GNFD,1.1100000000000001
+2016,General Fund,0001OCA,Office of Cultural Affairs GF,City-Owned Cultural Venues,WA,Debt Svc-Principal,0,0,598303.48,598303.48,GNFD,4.0199999999999996
+2016,General Fund,0001CCO,City Controller's Office GF,Deferred Compensation,RE,Reimbursements,-105300,0,-86733.60,-86733.60,GNFD,5.24
+2016,General Fund,0001OCA,Office of Cultural Affairs GF,City-Owned Cultural Venues,WB,Debt Svc-Interest On Bonds,0,0,64407.52,64407.52,GNFD,4.0199999999999996
+2016,General Fund,0001DEV,Sustainable Dev and Construction GF,Authorized Hearings,QV,Contractual & Other Services,36256,0,5169.75,5169.75,GNFD,2.02
+2016,General Fund,0001PNV,Planning and Urban Design GF,Neighborhood Vitality,TR,Transfers Out,0,0,100000,100000,GNFD,2.2799999999999998
+2016,Enterprise Operating Fund,0080CCT,Convention Center CCT,Convention Center Debt Service Payment,TR,Transfers Out,21583800,0,21583800,21583800,EFOP,2.09
+2016,Enterprise Operating Fund,0080CCT,Convention Center CCT,Dallas Convention Center,WB,Debt Svc-Interest On Bonds,23456,0,23455.82,23455.82,EFOP,2.1
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,DWU General Expense,TR,Transfers Out,22594000,0,22593195,22593195,EFOP,5.26
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,Security Service for City Facilities,QV,Contractual & Other Services,0,0,0,0,INSV,1.32
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Utilities Customer Account Services,RC,Capital Outlay,200000,0,0,0,EFOP,5.55
+2016,General Fund,0001CTJ,Judiciary GF,Court Security,RE,Reimbursements,-292100,0,-292100,-292100,GNFD,1.05
+2016,Enterprise Operating Fund,0080CCT,Convention Center CCT,Dallas Convention Center,RE,Reimbursements,0,0,-168386.60,-168386.60,EFOP,2.1
+2016,General Fund,0001CCO,City Controller's Office GF,Cash and Debt Management,QM,Supplies & Materials,0,0,5.6,5.6,GNFD,5.12
+2016,General Fund,0001CCO,City Controller's Office GF,Accounts Payable,RE,Reimbursements,0,0,-1800,-1800,GNFD,5.0199999999999996
+2016,Internal Service Fund,0198DSV,Information Technology DSV,Public Safety Technology Support,QM,Supplies & Materials,80000,0,8712.11,8712.11,INSV,5.O
+2016,General Fund,0001EBS,Building Services GF,Energy Procurement and Monitoring,RE,Reimbursements,-159493,0,-458298.88,-458298.88,GNFD,5.29
+2016,General Fund,0001ATT,City Attorney's Office GF,Code Litigation,QM,Supplies & Materials,18026,0,2775.71,2775.71,GNFD,3.06
+2016,General Fund,0001CSC,Mgmt Services - 311 Customer Service Center,311 Customer Service Center,RE,Reimbursements,-4129653,0,-4129529.31,-4129529.31,GNFD,5.01
+2016,General Fund,0001PER,Human Resources GF,Compensation Analysis / Classification,QM,Supplies & Materials,1230,0,836.75,836.75,GNFD,5.21
+2016,General Fund,0001DPD,Police Department GF,Police Investigation of Vice Related Crimes,RE,Reimbursements,-26000,0,-76111.22,-76111.22,GNFD,1.26
+2016,General Fund,0001ELE,Elections,Elections,QM,Supplies & Materials,5007,0,1976.38,1976.38,GNFD,5.27
+2016,General Fund,0001OFS,Non-Departmental,Tax Increment Financing Districts Payments,QV,Contractual & Other Services,26182783,0,26017572.16,26017572.16,GNFD,2.46
+2016,Internal Service Fund,0197DSV,Radio Services DSV,Internal Radio Communication,PS,Personnel Services,2290981,0,2081340.69,2081340.69,INSV,5.M
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Recycling Collection and Waste Diversion,RE,Reimbursements,0,0,-139221.25,-139221.25,EFOP,3.19
+2016,General Fund,0001DPD,Police Department GF,Juvenile Case Managers/First Offender Program,PS,Personnel Services,489854,0,416645.71,416645.71,GNFD,1.1499999999999999
+2016,General Fund,0001CTJ,Judiciary GF,Court Security,QM,Supplies & Materials,6900,0,1238.04,1238.04,GNFD,1.05
+2016,General Fund,0001PKR,Park and Recreation GF,Leisure Venue Management,PS,Personnel Services,205767,0,182882.60,182882.60,GNFD,4.05
+2016,General Fund,0001ATT,City Attorney's Office GF,Police Legal Liaison,PS,Personnel Services,531484,0,545797.37,545797.37,GNFD,1.28
+2016,General Fund,0001EMS,Mgmt Services - EMS Compliance,EMS Compliance Program,PS,Personnel Services,377560,0,382822.90,382822.90,GNFD,5.28
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,GIS Mapping for Private Development,QM,Supplies & Materials,4675,0,3375.45,3375.45,EFOP,2.2200000000000002
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Department Support,QM,Supplies & Materials,2450,0,2638.02,2638.02,EFOP,9.99
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Fire-Rescue Equipment Maintenance and Supply,PS,Personnel Services,3974736,0,4084118.58,4084118.58,GNFD,1.1299999999999999
+2016,General Fund,0001OCA,Office of Cultural Affairs GF,Cultural Services Contracts,PS,Personnel Services,320706,0,317911.55,317911.55,GNFD,4.03
+2016,General Fund,0001EBS,Building Services GF,Custodial Maintenance,RE,Reimbursements,-102829,0,-148682.25,-148682.25,GNFD,3.11
+2016,General Fund,0001ATT,City Attorney's Office GF,Municipal Prosecution,QM,Supplies & Materials,16064,0,9493.73,9493.73,GNFD,1.19
+2016,General Fund,0001PER,Human Resources GF,Compensation Analysis / Classification,PS,Personnel Services,358580,0,279302.21,279302.21,GNFD,5.21
+2016,General Fund,0001AGE,Mgmt Services - Council Agenda,City Agenda Process,PS,Personnel Services,194162,0,187211.42,187211.42,GNFD,5.15
+2016,General Fund,0001CVS,Civil Service GF,Applicant Processing - Uniform,QM,Supplies & Materials,3800,0,5091.99,5091.99,GNFD,5.0599999999999996
+2016,General Fund,0001BMS,Office of Financial Services GF,Department Support,QM,Supplies & Materials,0,0,2310.17,2310.17,GNFD,9.99
+2016,General Fund,0001CTJ,Judiciary GF,Court Security,QV,Contractual & Other Services,2095,0,120,120,GNFD,1.05
+2016,General Fund,0001PBW,Public Works GF,Pavement Management,PS,Personnel Services,226541,0,227083.14,227083.14,GNFD,2.31
+2016,General Fund,0001PKR,Park and Recreation GF,Aquatic Services,PS,Personnel Services,1899127,0,1745917.38,1745917.38,GNFD,4.01
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Zoning & Board of Adjustment,RE,Reimbursements,-86388,0,-78585.52,-78585.52,EFOP,2.5499999999999998
+2016,General Fund,0001EBS,Building Services GF,Energy Procurement and Monitoring,PS,Personnel Services,141483,0,153759.07,153759.07,GNFD,5.29
+2016,General Fund,0001CMO,City Manager's Office GF,City Administration,QM,Supplies & Materials,4719,0,7502.50,7502.50,GNFD,5.14
+2016,Internal Service Fund,0198DSV,Information Technology DSV,Public Safety Technology Support,PS,Personnel Services,1997961,0,1722613.08,1722613.08,INSV,5.O
+2016,Enterprise Operating Fund,0061SDM,Storm Drainage Mgmt Operations,Department Support,PS,Personnel Services,0,0,1583087.03,1583087.03,EFOP,9.99
+2016,General Fund,0001PBW,Public Works GF,Air Quality Compliance,PS,Personnel Services,544654,0,556740.21,556740.21,GNFD,3.01
+2016,General Fund,0001HOU,Housing GF,Home Ownership/Development,PS,Personnel Services,322109,0,335122.47,335122.47,GNFD,2.2400000000000002
+2016,General Fund,0001SEC,City Secretary's Office GF,Archives,PS,Personnel Services,151896,0,126663.98,126663.98,GNFD,5.07
+2016,General Fund,0001CCS,Code Compliance GF,Neighborhood Nuisance Abatement,PS,Personnel Services,4197436,0,3534486.01,3534486.01,GNFD,3.18
+2016,Enterprise Operating Fund,0061SDM,Storm Drainage Mgmt Operations,Floodplain and Drainage Management,PS,Personnel Services,2459690,0,1917973.75,1917973.75,EFOP,2.2000000000000002
+2016,General Fund,0001CVS,Civil Service GF,Fire Applicant - Physical Abilities Testing,PS,Personnel Services,41875,0,72934.07,72934.07,GNFD,5.33
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Zoning & Board of Adjustment,PS,Personnel Services,1539069,0,1351360.51,1351360.51,EFOP,2.5499999999999998
+2016,General Fund,0001ATT,City Attorney's Office GF,"Environ Enforcement, Compliance, and Support (Legal Service)",PS,Personnel Services,80425,0,70830.91,70830.91,GNFD,3.13
+2016,General Fund,0001CMO,City Manager's Office GF,City Administration,RE,Reimbursements,-597607,0,-597607,-597607,GNFD,5.14
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,City Fleet Paint and Body Shop Coordination,PS,Personnel Services,35014,0,103033.91,103033.91,INSV,5.F
+2016,General Fund,0001BAC,Mgmt Services - Boards and Commissions,Boards and Commissions Liaison,PS,Personnel Services,71821,0,71236.55,71236.55,GNFD,5.09
+2016,General Fund,0001OEM,Mgmt Services - Emergency Management,Emergency Management Operations,RE,Reimbursements,-310991,0,-314744.42,-314744.42,GNFD,1.07
+2016,General Fund,0001CCS,Code Compliance GF,Department Support,RE,Reimbursements,-871196,0,-871195,-871195,GNFD,9.99
+2016,General Fund,0001PBW,Public Works GF,Adjudication Office,PS,Personnel Services,411393,0,384704.38,384704.38,GNFD,1.01
+2016,General Fund,0001BMS,Office of Financial Services GF,Utility Management,PS,Personnel Services,130194,0,129727.58,129727.58,GNFD,5.52
+2016,Other Operating Fund,0191DSV,9-1-1 System Operations,9-1-1 Technology/Education Services,PS,Personnel Services,243852,0,142415.77,142415.77,OTHO,5.A
+2016,General Fund,0001BMS,Office of Financial Services GF,Citywide Capital and Operating Budget Dev and Monitoring,PS,Personnel Services,864077,0,889073.55,889073.55,GNFD,5.19
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,"Water Planning, Financial and Rate Services",PS,Personnel Services,1812329,0,1726087.27,1726087.27,EFOP,5.54
+2016,General Fund,0001PER,Human Resources GF,Department Support,RE,Reimbursements,-437015,0,-471012,-471012,GNFD,9.99
+2016,General Fund,0001EMS,Mgmt Services - EMS Compliance,EMS Compliance Program,QM,Supplies & Materials,0,0,2618.33,2618.33,GNFD,5.28
+2016,General Fund,0001ADM,Mgmt Services - Admin,311 Customer Service Center,PS,Personnel Services,286825,0,266365.51,266365.51,GNFD,5.01
+2016,General Fund,0001ECO,Economic Development GF,Economic Development Major Projects & Other Programs,PS,Personnel Services,412968,0,360778.50,360778.50,GNFD,2.13
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Utilities Customer Account Services,RE,Reimbursements,-576915,0,-723747.30,-723747.30,EFOP,5.55
+2016,Enterprise Operating Fund,0080CCT,Convention Center CCT,Office of Special Events,QM,Supplies & Materials,13116,0,3838.81,3838.81,EFOP,2.29
+2016,General Fund,0001ECO,Economic Development GF,Economic Development Research and Information Services,PS,Personnel Services,405543,0,435036.02,435036.02,GNFD,2.14
+2016,General Fund,0001DEV,Sustainable Dev and Construction GF,Historic Preservation,QM,Supplies & Materials,5550,0,1037.23,1037.23,GNFD,2.23
+2016,General Fund,0001PBW,Public Works GF,Capital Facilities,PS,Personnel Services,1816641,0,1764375.34,1764375.34,GNFD,2.0699999999999998
+2016,General Fund,0001PIO,Mgmt Services - Public Information Office,Public Information Office / Communications & Broadcasting,PS,Personnel Services,1320458,0,1285530.10,1285530.10,GNFD,5.48
+2016,General Fund,0001SEC,City Secretary's Office GF,Customer Service,PS,Personnel Services,170140,0,157249.09,157249.09,GNFD,5.23
+2016,General Fund,0001STL,Street Lighting,Street Lighting,PS,Personnel Services,76262,0,160784.78,160784.78,GNFD,2.42
+2016,General Fund,0001OEM,Mgmt Services - Emergency Management,Emergency Management Operations,PS,Personnel Services,581095,0,593468.79,593468.79,GNFD,1.07
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,City GIS Services,RC,Capital Outlay,26400,0,5895,5895,EFOP,5.18
+2016,General Fund,0001PKR,Park and Recreation GF,Department Support,PS,Personnel Services,2780538,0,2957304.40,2957304.40,GNFD,9.99
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Private Development Survey,PS,Personnel Services,520506,0,405324.89,405324.89,EFOP,2.34
+2016,Internal Service Fund,0199POM,Express Business Center POM,Business Services,RE,Reimbursements,-1200000,0,-1294620.72,-1294620.72,INSV,5.B
+2016,General Fund,0001CVS,Civil Service GF,Applicant Processing - Civilian,QM,Supplies & Materials,6100,0,7723.78,7723.78,GNFD,5.05
+2016,General Fund,0001CMO,City Manager's Office GF,City Administration,PS,Personnel Services,2392182,0,2365214.61,2365214.61,GNFD,5.14
+2016,Internal Service Fund,0198DSV,Information Technology DSV,Internal Desktop Support,PS,Personnel Services,87351,0,70464.08,70464.08,INSV,5.L
+2016,General Fund,0001ECO,Economic Development GF,Small Business Initiatives,PS,Personnel Services,741356,0,549317.96,549317.96,GNFD,2.4
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,Environmental Services for City Fleet Operations,PS,Personnel Services,443688,0,367339.50,367339.50,INSV,5.H
+2016,General Fund,0001ATT,City Attorney's Office GF,General Counsel,RE,Reimbursements,-120842,0,-103511.72,-103511.72,GNFD,5.34
+2016,General Fund,0001POM,Business Development & Procurement GF,Business Inclusion & Development Compliance Monitoring,RE,Reimbursements,-77110,0,-77203.16,-77203.16,GNFD,5.1100000000000003
+2016,General Fund,0001IGS,Mgmt Services - Intergovernmental Services,Intergovernmental Services,PS,Personnel Services,698842,0,662012.95,662012.95,GNFD,5.41
+2016,General Fund,0001ATT,City Attorney's Office GF,Department Support,RE,Reimbursements,-1218278,0,-1357162,-1357162,GNFD,9.99
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Animal Remains Collection,PS,Personnel Services,464894,0,434620.63,434620.63,EFOP,3.03
+2016,Internal Service Fund,0198DSV,Information Technology DSV,Internal Telephone and Data Communication,PS,Personnel Services,634289,0,385768.29,385768.29,INSV,5.N
+2016,General Fund,0001PER,Human Resources GF,HRIS and HR Payroll Services,QM,Supplies & Materials,7090,0,4396.50,4396.50,GNFD,5.38
+2016,General Fund,0001PER,Human Resources GF,Human Resource Consulting,QM,Supplies & Materials,10395,0,20943.54,20943.54,GNFD,5.39
+2016,Other Operating Fund,0286PER,Wellness Program Fund,Wellness Program,PS,Personnel Services,428603,0,352342.18,352342.18,OTHO,5.R
+2016,General Fund,0001PNV,Planning and Urban Design GF,Neighborhood Vitality,PS,Personnel Services,869595,0,575005.03,575005.03,GNFD,2.2799999999999998
+2016,General Fund,0001AUD,City Auditor's Office GF,"Audits, Attestations and Investigations",PS,Personnel Services,2728685,0,2723120.96,2723120.96,GNFD,5.08
+2016,General Fund,0001CTJ,Judiciary GF,Community Court,QV,Contractual & Other Services,150,0,334.15,334.15,GNFD,1.04
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,GIS Mapping for Private Development,PS,Personnel Services,643981,0,471689.21,471689.21,EFOP,2.2200000000000002
+2016,General Fund,0001FHO,Mgmt Services - Fair Housing,Fair Housing and Human Rights Compliance,PS,Personnel Services,113401,0,117613.64,117613.64,GNFD,5.31
+2016,General Fund,0001LIB,Library GF,"Literacy Initiatives, Education & Community Engagement",PS,Personnel Services,807170,0,834065.26,834065.26,GNFD,4.08
+2016,General Fund,0001OCA,Office of Cultural Affairs GF,Public Art for Dallas,PS,Personnel Services,336954,0,275745.58,275745.58,GNFD,4.1100000000000003
+2016,General Fund,0001CRO,Mgmt Services - Resiliency Office,Resiliency Office,PS,Personnel Services,282258,0,274164.87,274164.87,GNFD,2.37
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Fire Inspection for New Construction,RE,Reimbursements,-1000000,0,-2000712.16,-2000712.16,GNFD,2.1800000000000002
+2016,General Fund,0001STS,Street Services GF,Rights-of-Way Maintenance Contracts and Inspections Group,PS,Personnel Services,1609824,0,1510801.68,1510801.68,GNFD,2.38
+2016,General Fund,0001CVS,Civil Service GF,Applicant Processing - Uniform,PS,Personnel Services,502154,0,491399.45,491399.45,GNFD,5.0599999999999996
+2016,Internal Service Fund,0198DSV,Information Technology DSV,Business Technology Services,PS,Personnel Services,5475057,0,4325788.95,4325788.95,INSV,5.C
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,City Facility Services,PS,Personnel Services,91597,0,73735.65,73735.65,EFOP,3.05
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Construction Plan Review and Permitting,RE,Reimbursements,0,0,-10870.67,-10870.67,EFOP,2.08
+2016,General Fund,0001ECO,Economic Development GF,Area Redevelopment,PS,Personnel Services,651085,0,611228.84,611228.84,GNFD,2.0099999999999998
+2016,General Fund,0001EBS,Building Services GF,Bullington Truck Terminal and Thanksgiving Square,PS,Personnel Services,42931,0,44502.99,44502.99,GNFD,2.0299999999999998
+2016,General Fund,0001PKR,Park and Recreation GF,Operation & Maintenance of Fair Park,RC,Capital Outlay,15000,0,30745,30745,GNFD,2.2999999999999998
+2016,Enterprise Operating Fund,0061SDM,Storm Drainage Mgmt Operations,Stormwater Regulations & Enforcement,PS,Personnel Services,4011544,0,3677345.41,3677345.41,EFOP,3.22
+2016,General Fund,0001CPE,Mgmt Services - Strategic Initiatives,Center for Performance Excellence,PS,Personnel Services,932006,0,959517.15,959517.15,GNFD,5.13
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,City GIS Services,PS,Personnel Services,1252868,0,1238315.85,1238315.85,EFOP,5.18
+2016,General Fund,0001PBW,Public Works GF,Interagency and Transportation Administration,PS,Personnel Services,1350819,0,1233513.98,1233513.98,GNFD,2.2599999999999998
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,Fuel Procurement and Management,PS,Personnel Services,675763,0,757618.49,757618.49,INSV,5.I
+2016,General Fund,0001ATT,City Attorney's Office GF,Community Prosecution & Community Courts,PS,Personnel Services,1593912,0,1432888.57,1432888.57,GNFD,3.07
+2016,General Fund,0001PNV,Planning and Urban Design GF,Department Support,PS,Personnel Services,570188,0,528422.26,528422.26,GNFD,9.99
+2016,General Fund,0001CRO,Mgmt Services - Resiliency Office,Resiliency Office,RE,Reimbursements,0,0,-213733.48,-213733.48,GNFD,2.37
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Engineering & Inspection Review for Private Development,RE,Reimbursements,-526899,0,-526899,-526899,EFOP,2.15
+2016,General Fund,0001CVS,Civil Service GF,Civil Service Board Administration/Employee Appeals Process,PS,Personnel Services,358465,0,364787.18,364787.18,GNFD,5.2
+2016,General Fund,0001PBW,Public Works GF,Underground Storage Tank Replacement and Inspection,PS,Personnel Services,77075,0,76646.75,76646.75,GNFD,3.23
+2016,General Fund,0001OFS,Non-Departmental,Non-Departmental,RE,Reimbursements,0,0,-50115,-50115,GNFD,5.46
+2016,General Fund,0001DEV,Sustainable Dev and Construction GF,Historic Preservation,QV,Contractual & Other Services,113501,0,88689.85,88689.85,GNFD,2.23
+2016,General Fund,0001DEV,Sustainable Dev and Construction GF,Authorized Hearings,PS,Personnel Services,335055,0,338335.66,338335.66,GNFD,2.02
+2016,General Fund,0001CCO,City Controller's Office GF,Deferred Compensation,PS,Personnel Services,164648,0,164427.74,164427.74,GNFD,5.24
+2016,General Fund,0001CCO,City Controller's Office GF,Deferred Compensation,QM,Supplies & Materials,2000,0,670.69,670.69,GNFD,5.24
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Department Support,PS,Personnel Services,358430,0,279386.46,279386.46,EFOP,9.99
+2016,General Fund,0001POM,Business Development & Procurement GF,Vendor Development,PS,Personnel Services,195930,0,191899.31,191899.31,GNFD,2.5099999999999998
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Subdivision Plat Review,QM,Supplies & Materials,5475,0,5079.53,5079.53,EFOP,2.4500000000000002
+2016,General Fund,0001CVS,Civil Service GF,Analysis/Development and Validation,QM,Supplies & Materials,10400,0,19655.30,19655.30,GNFD,5.04
+2016,General Fund,0001ECO,Economic Development GF,Department Support,PS,Personnel Services,884013,0,879007.91,879007.91,GNFD,9.99
+2016,General Fund,0001PKR,Park and Recreation GF,"Planning, Design, Construction & EMS and Environ Compliance",RE,Reimbursements,-100000,0,-144787.12,-144787.12,GNFD,4.0999999999999996
+2016,General Fund,0001CCO,City Controller's Office GF,Department Support,PS,Personnel Services,172258,0,178867.30,178867.30,GNFD,9.99
+2016,Enterprise Operating Fund,0061SDM,Storm Drainage Mgmt Operations,Stormwater Regulations & Enforcement,RC,Capital Outlay,203120,0,52484.89,52484.89,EFOP,3.22
+2016,General Fund,0001LEW,Jail Contract,Lew Sterrett Jail Contract,QV,Contractual & Other Services,7557391,0,7557390.96,7557390.96,GNFD,1.1599999999999999
+2016,General Fund,0001CTJ,Judiciary GF,Court Security,PS,Personnel Services,755210,0,928724.85,928724.85,GNFD,1.05
+2016,General Fund,0001LIB,Library GF,Library Materials & Collection Management,PS,Personnel Services,1069420,0,998020.13,998020.13,GNFD,4.0599999999999996
+2016,General Fund,0001OFS,Non-Departmental,General Obligation Commercial Paper and Master Lease Program,QV,Contractual & Other Services,14697733,0,9927550.77,9927550.77,GNFD,5.35
+2016,General Fund,0001CCS,Code Compliance GF,Consumer Health,RE,Reimbursements,-204560,0,-204560,-204560,GNFD,3.1
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,DWU General Expense,RC,Capital Outlay,2157771,0,2207570.94,2207570.94,EFOP,5.26
+2016,General Fund,0001PER,Human Resources GF,Department Support,PS,Personnel Services,437015,0,458807.50,458807.50,GNFD,9.99
+2016,General Fund,0001ECO,Economic Development GF,Dallas Film Commission,PS,Personnel Services,283095,0,206366.97,206366.97,GNFD,2.11
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Vital Statistics,RE,Reimbursements,-1037683,0,-827363.72,-827363.72,EFOP,5.53
+2016,General Fund,0001CTS,Court and Detention Services GF,Dallas City Marshal,RC,Capital Outlay,70000,0,43348.66,43348.66,GNFD,1.06
+2016,Internal Service Fund,0199POM,Express Business Center POM,Business Services,TR,Transfers Out,78920,0,37226.36,37226.36,INSV,5.B
+2016,General Fund,0001PBW,Public Works GF,Department Support,PS,Personnel Services,1163590,0,1192202.28,1192202.28,GNFD,9.99
+2016,General Fund,0001DPD,Police Department GF,Police Intelligence,PS,Personnel Services,9624859,0,7557620.51,7557620.51,GNFD,1.25
+2016,General Fund,0001EBS,Building Services GF,Department Support,PS,Personnel Services,601118,0,925984.55,925984.55,GNFD,9.99
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Private Development Records and Archival Library,QM,Supplies & Materials,8159,0,8621.31,8621.31,EFOP,2.33
+2016,General Fund,0001SEC,City Secretary's Office GF,Boards and Commissions Support,QM,Supplies & Materials,1700,0,1182.64,1182.64,GNFD,5.0999999999999996
+2016,General Fund,0001ATT,City Attorney's Office GF,General Counsel,PS,Personnel Services,3860515,0,3911342.54,3911342.54,GNFD,5.34
+2016,General Fund,0001SEC,City Secretary's Office GF,Records Management,PS,Personnel Services,265227,0,273786.12,273786.12,GNFD,5.5
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Wastewater Collection,PS,Personnel Services,12649858,0,12019386.02,12019386.02,EFOP,3.24
+2016,General Fund,0001DEV,Sustainable Dev and Construction GF,Authorized Hearings,QM,Supplies & Materials,10625,0,1179.51,1179.51,GNFD,2.02
+2016,Enterprise Operating Fund,0150DEV,Sustainable Dev and Construction - Enterprise,Express Plan Review,QM,Supplies & Materials,16400,0,6736.95,6736.95,EFOP,2.16
+2016,General Fund,0001EBS,Building Services GF,Security Service for City Facilities,PS,Personnel Services,3076416,0,3343214.75,3343214.75,GNFD,1.32
+2016,General Fund,0001PNV,Planning and Urban Design GF,Mobility Planning,PS,Personnel Services,791641,0,424274.08,424274.08,GNFD,2.27
+2016,General Fund,0001SEC,City Secretary's Office GF,Boards and Commissions Support,PS,Personnel Services,255053,0,260203.55,260203.55,GNFD,5.0999999999999996
+2016,General Fund,0001PBW,Public Works GF,Street Cut and Right-of-Way Management (Cut Control),PS,Personnel Services,565666,0,432253.79,432253.79,GNFD,2.41
+2016,General Fund,0001DEV,Sustainable Dev and Construction GF,Historic Preservation,RE,Reimbursements,-74033,0,-27907.56,-27907.56,GNFD,2.23
+2016,General Fund,0001FHO,Mgmt Services - Fair Housing,Fair Housing and Human Rights Compliance,QM,Supplies & Materials,400,0,253.02,253.02,GNFD,5.31
+2016,General Fund,0001ATT,City Attorney's Office GF,Municipal Prosecution,PS,Personnel Services,1709891,0,1633571.53,1633571.53,GNFD,1.19
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Inspection and Life Safety Education,RE,Reimbursements,-74275,0,-440047.95,-440047.95,GNFD,1.1399999999999999
+2016,General Fund,0001ICT,Mgmt Services - Internal Control Task Force,Internal Control Task Force,PS,Personnel Services,414065,0,367938.88,367938.88,GNFD,5.42
+2016,General Fund,0001CCS,Code Compliance GF,Regulation and Enforcement of For Hire Transportation,PS,Personnel Services,921382,0,778890.62,778890.62,GNFD,2.36
+2016,General Fund,0001PBW,Public Works GF,Air Quality Compliance,RE,Reimbursements,-525117,0,-525027.24,-525027.24,GNFD,3.01
+2016,General Fund,0001HOU,Housing GF,Community/Senior Services,RE,Reimbursements,-50000,0,-67703.79,-67703.79,GNFD,3.08
+2016,General Fund,0001DPD,Police Department GF,Police Community Outreach,PS,Personnel Services,1670262,0,1481332.29,1481332.29,GNFD,1.22
+2016,General Fund,0001OCA,Office of Cultural Affairs GF,Department Support,PS,Personnel Services,0,0,265659.92,265659.92,GNFD,9.99
+2016,General Fund,0001ATT,City Attorney's Office GF,DFW International Airport Legal Counsel,PS,Personnel Services,554501,0,559767.62,559767.62,GNFD,5.25
+2016,Internal Service Fund,0198DSV,Information Technology DSV,Internal Computer Support,PS,Personnel Services,3163653,0,2658658.24,2658658.24,INSV,5.K
+2016,General Fund,0001DFD,Dallas Fire Rescue GF,Fire-Rescue Equipment Maintenance and Supply,RE,Reimbursements,-133017,0,-132903.04,-132903.04,GNFD,1.1299999999999999
+2016,General Fund,0001EBS,Building Services GF,Energy Procurement and Monitoring,QM,Supplies & Materials,2883021,0,2538952.85,2538952.85,GNFD,5.29
+2016,General Fund,0001LIB,Library GF,Library Operations & Public Service,RC,Capital Outlay,0,0,44502.48,44502.48,GNFD,4.07
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,City Fleet Asset Management,RE,Reimbursements,0,0,-2303995.10,-2303995.10,INSV,5.D
+2016,Enterprise Operating Fund,0440SAN,Sanitation Operating Fund,Residential Refuse Collection,RC,Capital Outlay,0,0,179170,179170,EFOP,3.2
+2016,General Fund,0001CCS,Code Compliance GF,Neighborhood Code Compliance Services,RE,Reimbursements,-1215858,0,-1119296.44,-1119296.44,GNFD,3.17
+2016,General Fund,0001DPD,Police Department GF,Police Administrative Support,RC,Capital Outlay,0,0,7979,7979,GNFD,1.21
+2016,General Fund,0001EBS,Building Services GF,Security Service for City Facilities,RE,Reimbursements,-436425,0,-1116805.62,-1116805.62,GNFD,1.32
+2016,General Fund,0001PBW,Public Works GF,Land Surveying Services,PS,Personnel Services,645554,0,721273.83,721273.83,GNFD,5.43
+2016,General Fund,0001TWM,Trinity Watershed Management GF,Trinity River Corridor Operations,RC,Capital Outlay,25241,0,36741.80,36741.80,GNFD,2.4900000000000002
+2016,General Fund,0001CTS,Court and Detention Services GF,Illegal Dump Team - Criminal Investigations and Arrests,RE,Reimbursements,-913180,0,-913180,-913180,GNFD,3.15
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Vital Statistics,PS,Personnel Services,623708,0,572851.96,572851.96,EFOP,5.53
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Conservation,PS,Personnel Services,847315,0,952999.10,952999.10,EFOP,3.26
+2016,Internal Service Fund,0198DSV,Information Technology DSV,Strategic Technology Management,RE,Reimbursements,-2338364,0,-1643102.56,-1643102.56,INSV,5.Q
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Department Support,PS,Personnel Services,2426857,0,2586673.81,2586673.81,EFOP,9.99
+2016,General Fund,0001CTS,Court and Detention Services GF,Illegal Dump Team - Criminal Investigations and Arrests,PS,Personnel Services,809023,0,802569.18,802569.18,GNFD,3.15
+2016,General Fund,0001CVS,Civil Service GF,Applicant Processing - Civilian,QV,Contractual & Other Services,96269,0,173279.60,173279.60,GNFD,5.05
+2016,Enterprise Operating Fund,0100DWU,Water Utilities DWU,Water Production and Delivery,PS,Personnel Services,33244929,0,35056284.20,35056284.20,EFOP,2.5299999999999998
+2016,General Fund,0001HOU,Housing GF,Housing Management/Contract Support,RE,Reimbursements,-131353,0,-36753.13,-36753.13,GNFD,5.37
+2016,General Fund,0001EBS,Building Services GF,Bullington Truck Terminal and Thanksgiving Square,QM,Supplies & Materials,193158,0,70417.84,70417.84,GNFD,2.0299999999999998
+2016,General Fund,0001PKR,Park and Recreation GF,Department Support,QV,Contractual & Other Services,0,0,2362.33,2362.33,GNFD,9.99
+2016,Internal Service Fund,0196EBS,Equipment Services EBS,City Fleet Asset Management,PS,Personnel Services,1119996,0,1079983.85,1079983.85,INSV,5.D
+2016,Enterprise Operating Fund,0061SDM,Storm Drainage Mgmt Operations,Storm Drainage Management Fund,QM,Supplies & Materials,0,0,4171.46,4171.46,EFOP,3.21
+2016,General Fund,0001PER,Human Resources GF,Department Support,QV,Contractual & Other Services,0,0,1523.58,1523.58,GNFD,9.99
+2016,General Fund,0001CVS,Civil Service GF,Civil Service Board Administration/Employee Appeals Process,QM,Supplies & Materials,2397,0,2657.82,2657.82,GNFD,5.2
+2016,General Fund,0001PKR,Park and Recreation GF,Recreation Services,RE,Reimbursements,-1025000,0,-1198136.06,-1198136.06,GNFD,4.12
+2016,General Fund,0001DPD,Police Department GF,Police Investigation of Vice Related Crimes,PS,Personnel Services,3482967,0,3760298.82,3760298.82,GNFD,1.26
+2016,General Fund,0001CVS,Civil Service GF,Applicant Processing - Uniform,QV,Contractual & Other Services,56096,0,20926.14,20926.14,GNFD,5.0599999999999996
+2016,General Fund,0001ATT,City Attorney's Office GF,"Environ Enforcement, Compliance, and Support (Legal Service)",QV,Contractual & Other Services,13485,0,3658.75,3658.75,GNFD,3.13
+2016,General Fund,0001ELE,Elections,Elections,PS,Personnel Services,87864,0,87392.29,87392.29,GNFD,5.27
